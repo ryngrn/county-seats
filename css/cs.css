@@ -191,7 +191,7 @@ p, .tmpl-post li, img {
 .map-header a:hover{
 	text-decoration:underline;
 }
-.map-header a#journey {
+.map-header #journey {
     margin-bottom: 2rem;
     display: block;
     margin-left: 2.5%;
