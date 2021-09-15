@@ -219,7 +219,17 @@ header {
     border-bottom: none;
 }
 
+nav{
+	text-align: center;
+}
 
+hr {
+    color: black;
+    fill: black;
+    border: 1px solid black;
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
 
 
 
