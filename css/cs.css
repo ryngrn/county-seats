@@ -95,6 +95,7 @@ pre > code.highlight {
 /* Everywhere */
 html,body{
 	background-color: #fcc541;
+	font-size: 20px;
 }
 
 .site-logo{
@@ -143,6 +144,12 @@ h1.page-title, .singular .entry-title {
 
 
 /* Intro Page */
+
+.homepage .social,
+.homepage .explainer{
+	text-align: center;
+}
+
 p, .tmpl-post li, img {
     max-width: none;
 }
