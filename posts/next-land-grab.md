@@ -2,9 +2,13 @@
 title: The Next Infrastructure Land Grab
 description: Throughout history, the path towards growing a city into a community has been closely tied to infrastructure… especially the infrastructure of travel. Are high-speed electric vehicle charging stations the next great moneymaker for small towns everywhere?
 date: 2021-09-03
-tags: Technology, Urban / Rural Divide, Electric Vehicles, Infrastructure
+tags: 
+- Technology
+- Urban / Rural Divide
+- Electric Vehicles
+- Infrastructure
 layout: layouts/post.njk
-permalink: "/thoughts/the-next-infrastructure-land-grab"
+permalink: "/thoughts/the-next-infrastructure-land-grab/"
 ---
 
 

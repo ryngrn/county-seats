@@ -300,17 +300,23 @@ hr {
     margin-right: auto;
 }
 
-.tmpl-post h1 {
-    font-size: 3rem;
+.simple h1:first-of-type {
     text-align: center;
+    font-size: 4rem;
+    margin-bottom: 4rem;
 }
 
 .tmpl-post .tag-wrapper{
 	text-align: center;
 }
 
+.postlist-date, .postlist-item:before{
+	content: none;
+}
 
-
+.postlist-item{
+	margin-bottom: 3em;
+}
 
 
 @media all and (max-width: 950px) {
