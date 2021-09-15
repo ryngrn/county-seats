@@ -5,8 +5,6 @@ Since self-hosted Wordpress ends up being such a headache, this is a first attem
 Will live in parallel until it is time to switch over.
 
 
-```
-
 ### Implementation Notes I'm Keeping Here for Reference
 
 * `about/index.md` shows how to add a content page.
