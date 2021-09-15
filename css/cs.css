@@ -98,6 +98,10 @@ html,body{
 	font-size: 20px;
 }
 
+footer{
+	padding-bottom: 5rem;
+}
+
 .site-logo{
 	border: none !important;
 }
@@ -148,6 +152,7 @@ h1.page-title, .singular .entry-title {
 .homepage .social,
 .homepage .explainer{
 	text-align: center;
+	display: block;
 }
 
 p, .tmpl-post li, img {
