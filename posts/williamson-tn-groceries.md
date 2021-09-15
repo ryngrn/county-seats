@@ -1,5 +1,5 @@
 ---
-title: Grocery Case Study: Williamson County, TN
+title: Grocery Case Study of Williamson County, TN
 description: A look at the county markets / groceries in the southern-middle-Tennessee area near where I live
 date: 2021-08-27
 tags:
@@ -8,12 +8,8 @@ tags:
   - Groceries
   - Tennessee
 layout: layouts/post.njk
-permalink: "thoughts/country-market-groceries-in-williamson-county-tennessee/"
----
-</h1>			</header><!-- .entry-header -->
-
-	<div class="entry-content">
-		
+permalink: "/thoughts/country-market-groceries-in-williamson-county-tennessee/"
+---	
 <p>After writing about the <a href="https://countyseats.us/a-case-for-the-grocery/">importance of groceries</a>, I figure it makes sense to call out some of the groceries closest to me. In no particular order are those in the county that I live.<br></p>
 
 
