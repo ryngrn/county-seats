@@ -113,8 +113,10 @@ footer{
     max-width: 50px !important;
     max-height: 50px !important;
     height: auto;
-    display: inline-block;
+    display: block;
     width: auto;
+    margin-top: 3em;
+    margin-bottom: 3em;
 }
 .site-branding{
 	display: none;
@@ -151,8 +153,8 @@ h1.page-title, .singular .entry-title {
 
 /* Intro Page */
 
-.homepage .social,
-.homepage .explainer{
+.social,
+.explainer{
 	text-align: center;
 	display: block;
 }
@@ -279,6 +281,26 @@ header {
 	display: block;
 	position: relative;
 }
+
+
+/* Single Post */
+.tmpl-post{
+	max-width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tmpl-post h1 {
+    font-size: 3rem;
+    text-align: center;
+}
+
+.tmpl-post .tag-wrapper{
+	text-align: center;
+}
+
+
+
 
 
 @media all and (max-width: 950px) {

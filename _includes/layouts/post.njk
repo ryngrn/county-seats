@@ -4,10 +4,11 @@ templateClass: tmpl-post
 ---
 <h1>{{ title }}</h1>
 
+<div class="tag-wrapper">
 {%- for tag in tags | filterTagList -%}
 {%- set tagUrl %}/tags/{{ tag | slug }}/{% endset -%}
 <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
-{%- endfor %}
+{%- endfor %}</div>
 
 {{ content | safe }}
 
