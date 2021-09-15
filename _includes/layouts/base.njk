@@ -12,7 +12,9 @@
   </head>
   <body class="simple">
     <header>
-      <a href="{{ '/' | url }}"><img src="/img/cs-logo.png" class="custom-logo" alt="{{ metadata.title }}"/></a>
+      <div class="site-logo">
+        <a href="{{ '/' | url }}"><img src="/img/cs-logo.png" class="custom-logo" alt="{{ metadata.title }}"/></a>
+      </div>
     </header>
 
     <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
