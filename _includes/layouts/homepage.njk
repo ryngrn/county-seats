@@ -1,0 +1,121 @@
+---
+layout: layouts/homepage.njk
+templateClass: tmpl-home
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title or metadata.title }}</title>
+    <meta name="description" content="{{ description or metadata.description }}">
+    <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
+    <link rel="stylesheet" href="{{ '/css/cs.css' | url }}">
+    <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
+    <link rel="alternate" href="{{ metadata.jsonfeed.path | url }}" type="application/json" title="{{ metadata.title }}">
+  </head>
+
+  <body>
+    <header>
+		<section id="big-title">
+			<img width="512" height="512" src="https://countyseats.us/wp-content/uploads/2021/08/cropped-cropped-cs.png" class="custom-logo" alt="" srcset="https://countyseats.us/wp-content/uploads/2021/08/cropped-cropped-cs.png 512w, https://countyseats.us/wp-content/uploads/2021/08/cropped-cropped-cs-300x300.png 300w, https://countyseats.us/wp-content/uploads/2021/08/cropped-cropped-cs-150x150.png 150w, https://countyseats.us/wp-content/uploads/2021/08/cropped-cropped-cs-48x48.png 48w, https://countyseats.us/wp-content/uploads/2021/08/cropped-cropped-cs-250x250.png 250w, https://countyseats.us/wp-content/uploads/2021/08/cropped-cropped-cs-180x180.png 180w, https://countyseats.us/wp-content/uploads/2021/08/cropped-cropped-cs-500x500.png 500w" sizes="(max-width: 512px) 100vw, 512px">
+			
+			<div class="county">County</div> <div class="seats">Seats</div>
+		</section>
+    </header>
+
+    <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
+
+      {{ content | safe }}
+
+
+	<div id="content" class="site-content">
+		<div id="primary" class="content-area">
+			<main id="main" class="site-main" role="main">
+
+<div id="primary" class="content-area">
+
+                <main id="main" class="site-main" role="main">
+					
+				
+
+                 <section id="maps">
+                 	<div class="map-header"><a id="journey" href="https://countyseats.us/journey/">By the Numbers</a></div>
+                 	<div class="map-container">
+                 		<div class="heading">
+                 			275 / 3142 Counties Completed
+                 		</div>
+                 		<img src="https://countyseats.us/wp-content/themes/cs/counties.svg">
+                 	</div>
+                 	<div class="map-container">
+                 		<div class="heading">
+                 			4 States Completed<br> 20 States Underway
+                 		</div>
+                 		<img src="https://countyseats.us/wp-content/themes/cs/states.svg">
+                 	</div>
+                 </section>
+
+
+				<section id="why">
+					
+<div class="wp-block-group" style="padding-bottom:50px"><div class="wp-block-group__inner-container">
+<h2><strong>What is this?</strong></h2>
+
+
+
+<p>Foremost, County Seats is a documentation tool for <a rel="noreferrer noopener" href="https://ryan.green" target="_blank">Ryan</a> to keep track of his journey to visit every <a rel="noreferrer noopener" href="https://en.wikipedia.org/wiki/County_seat" target="_blank">county seat</a> in the United States of America. If you've never counted, there are several of them.</p>
+</div></div>
+
+
+
+<div class="wp-block-group" style="padding-bottom:50px"><div class="wp-block-group__inner-container">
+<h2><strong>Is that all?</strong></h2>
+
+
+
+<p>Nope! As a consequence of visiting many counties and having lots of great experiences along the way, I've stumbled upon bigger conversations about how urban and rural areas converge, how the infrastructure and built environment in small towns continue to evolve, and interesting opportunities for those that live and work in non-metropolitan areas.</p>
+
+
+
+<p><br>This project has evolved to capture my <a href="https://countyseats.us/notebook/">thoughts</a> about all of these things (and more).</p>
+</div></div>
+
+
+
+<div class="wp-block-group"><div class="wp-block-group__inner-container">
+<h2><strong>But why visit county seats? I have so many questions...</strong></h2>
+
+
+
+<p>For the full story behind why Ryan even started this project in the first place, <a href="https://countyseats.us/where-it-all-began/">you’re in luck</a>.</p>
+</div></div>
+
+
+
+<p></p>
+				</section>
+
+
+                </main><!-- .site-main -->
+
+    <footer>
+
+    	<div class="explainer">
+    		<h3>County Seats</h3>
+    		A project by Ryan Green<br><br>
+    		2012 - ∞</div>
+		<style>
+			.explainer{
+				font-size: 11px;
+				top: -20px;
+				display: block;
+				position: relative;
+			}
+		</style>
+
+    	<a href="https://twitter.com/countyseats"><svg class="svg-icon" width="24" height="24" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M22.23,5.924c-0.736,0.326-1.527,0.547-2.357,0.646c0.847-0.508,1.498-1.312,1.804-2.27 c-0.793,0.47-1.671,0.812-2.606,0.996C18.324,4.498,17.257,4,16.077,4c-2.266,0-4.103,1.837-4.103,4.103 c0,0.322,0.036,0.635,0.106,0.935C8.67,8.867,5.647,7.234,3.623,4.751C3.27,5.357,3.067,6.062,3.067,6.814 c0,1.424,0.724,2.679,1.825,3.415c-0.673-0.021-1.305-0.206-1.859-0.513c0,0.017,0,0.034,0,0.052c0,1.988,1.414,3.647,3.292,4.023 c-0.344,0.094-0.707,0.144-1.081,0.144c-0.264,0-0.521-0.026-0.772-0.074c0.522,1.63,2.038,2.816,3.833,2.85 c-1.404,1.1-3.174,1.756-5.096,1.756c-0.331,0-0.658-0.019-0.979-0.057c1.816,1.164,3.973,1.843,6.29,1.843 c7.547,0,11.675-6.252,11.675-11.675c0-0.178-0.004-0.355-0.012-0.531C20.985,7.47,21.68,6.747,22.23,5.924z"></path></svg><span class="screen-reader-text">Twitter</span></a>
+    </footer>
+</body>
+</html>
+    <!-- Current page: {{ page.url | url }} -->
