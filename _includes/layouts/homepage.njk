@@ -22,7 +22,7 @@
 
     <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
 
-      {{ content | safe }}
+      
 
 
 	<div id="content" class="site-content">
@@ -74,6 +74,11 @@
 
 
 <p><br>This project has evolved to capture my <a href="https://countyseats.us/notebook/">thoughts</a> about all of these things (and more).</p>
+
+    <div class="blog loop">
+        {{ content | safe }}
+    </div>
+
 </div></div>
 
 
