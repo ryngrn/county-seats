@@ -171,7 +171,7 @@ p, .tmpl-post li, img {
 .map-header {
     font-weight: bold;
     font-size: 3rem;
-    
+    line-height: 32px;
 }
 .map-header a{
 	text-decoration:none;
@@ -195,6 +195,7 @@ p, .tmpl-post li, img {
     font-weight: bold;
     height: 40px;
     margin: 20px 0;
+    line-height: 32px;
 }
 
 
@@ -249,7 +250,21 @@ header {
 	margin-bottom: 5rem;
 }
 
+#why h2 {
+    font-size: 2rem;
+    line-height: 2rem;
+}
+#why .block{
+	margin-bottom: 50px;
+}
 
+
+.explainer{
+	font-size: 11px;
+	top: -20px;
+	display: block;
+	position: relative;
+}
 
 
 @media all and (max-width: 950px) {
