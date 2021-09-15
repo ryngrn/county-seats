@@ -203,41 +203,35 @@ h1.page-title, .singular .entry-title {
 
 
 
-.page-template-intro-page #masthead,
-.page-template-intro-page .widget-area{
-
-	display: none !important;
-
+#big-title{
+    font-size: 6rem;
+    font-weight: bold;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
 }
 
-
-.page-template-intro-page #big-title{
-	font-size:6rem; 
-	font-weight: bold;
-	width:400px;
-	margin-left: auto;
-	margin-right: auto;
-}
-.page-template-intro-page .custom-logo{
-	height: 100px;
-	width: auto;
-	margin-left: auto;
-	margin-right: auto;
-	display: block;
+#big-title img {
+    height: 100px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+ 
 }
 
-
-
-.page-template-intro-page .county{
-	margin-left: 0;
-	height: 6rem;
-	display: block;
-	margin-top: -40px;
-}
-.page-template-intro-page .seats{
-	text-align: right;
+#big-title .county{
+    margin-left: 0;
+    height: 6rem;
+    display: block;
+    margin-top: 0px;
 }
 
+#big-title .seats{
+    text-align: right;
+}
 .page-template-intro-page #choose{
 	position: relative;
 	min-height: 30vh;
