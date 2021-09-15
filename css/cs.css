@@ -219,7 +219,17 @@ header {
     border-bottom: none;
 }
 
+nav{
+	text-align: center;
+}
 
+hr {
+    color: black;
+    fill: black;
+    border: 1px solid black;
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
 
 
 
@@ -284,7 +294,7 @@ header {
 
 
 /* Single Post */
-.tmpl-post{
+.simple{
 	max-width: 70%;
     margin-left: auto;
     margin-right: auto;
