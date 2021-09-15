@@ -12,7 +12,7 @@ permalink: "/thoughts/the-next-infrastructure-land-grab/"
 ---
 
 
-<img width="702" height="459" src="https://countyseats.us/wp-content/uploads/2021/09/tn-rr.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://countyseats.us/wp-content/uploads/2021/09/tn-rr.jpg 702w, https://countyseats.us/wp-content/uploads/2021/09/tn-rr-300x196.jpg 300w" sizes="(max-width: 702px) 100vw, 702px" style="width:100%;height:65.38%;max-width:702px;">
+<img src="https://countyseats.us/wp-content/uploads/2021/09/tn-rr.jpg" class="full-width-image" alt="Old railroads of Tennessee" srcset="https://countyseats.us/wp-content/uploads/2021/09/tn-rr.jpg">
 		
 <p>Throughout history, the path towards growing a city into a community has been closely tied to infrastructure… especially the infrastructure of travel. The September edition of Tennessee Magazine ran <a rel="noreferrer noopener" href="https://www.tnmagazine.org/railroads-turned-tennessee-towns-into-cities/" data-type="URL" data-id="https://www.tnmagazine.org/railroads-turned-tennessee-towns-into-cities/" target="_blank">a great article</a> about how railroads took small towns and grew them exponentially compared to those towns that were near, and were along the riverboat paths, but didn't get as much rail service. </p>
 
@@ -20,7 +20,7 @@ permalink: "/thoughts/the-next-infrastructure-land-grab/"
 <p>The article made me wonder, are high-speed electric vehicle charging stations the next great moneymaker for small towns everywhere? Between the newest <a rel="noreferrer noopener" href="https://www.wsj.com/articles/epa-rule-to-cost-up-to-8-8-billion-annually-sources-say-1401710600" target="_blank">EPA regulations</a> and <a rel="noreferrer noopener" href="https://www.gm.com/electric-vehicles.html" data-type="URL" data-id="https://www.gm.com/electric-vehicles.html" target="_blank">automaker promises to electrify</a>, there's a significant buzz around electric vehicles being the future of transportation. That future is ever approaching... whether it's 2025, 2030, or soon after, it'll be harder and harder to find brand new fossil-fuel driven vehicles.</p>
 
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.hiconsumption.com%2Fwp-content%2Fuploads%2F2019%2F01%2FAtlis-XT-All-Electric-Pickup-Truck-FB.jpg&amp;f=1&amp;nofb=1" alt="">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.hiconsumption.com%2Fwp-content%2Fuploads%2F2019%2F01%2FAtlis-XT-All-Electric-Pickup-Truck-FB.jpg&amp;f=1&amp;nofb=1" alt="Electric trucks could be the future of rural life" class="full-width-image">
 
 
 
@@ -32,7 +32,7 @@ permalink: "/thoughts/the-next-infrastructure-land-grab/"
 
 
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fassets.epicurious.com%2Fphotos%2F5c7848cb0bf9d330b3b8d6ae%2F16%3A9%2Fw_2560%252Cc_limit%2FBest-Espresso-Machines-28022019.jpg&amp;f=1&amp;nofb=1" alt="">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fassets.epicurious.com%2Fphotos%2F5c7848cb0bf9d330b3b8d6ae%2F16%3A9%2Fw_2560%252Cc_limit%2FBest-Espresso-Machines-28022019.jpg&amp;f=1&amp;nofb=1" alt="Fancy Coffee!" class="full-width-image">
 
 
 
