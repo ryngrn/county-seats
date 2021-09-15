@@ -143,9 +143,8 @@ h1.page-title, .singular .entry-title {
 
 
 /* Intro Page */
-
-#main{
-	width: 80%;
+p, .tmpl-post li, img {
+    max-width: none;
 }
 
 .map-container {
@@ -154,11 +153,12 @@ h1.page-title, .singular .entry-title {
     width: 44%;
     overflow: hidden;
     display: inline-block;
-    margin-right: 5%;
+    margin-right: 2.5%;
     padding-bottom: 20px;
     transition: all ease-in-out 0.2s;
     padding-left: 10px;
     padding-right: 10px;
+    margin-left: 2.5%;
 }
 .map-container:hover{
 	/*background-color: rgba(255,255,255,0.1);*/
@@ -178,6 +178,11 @@ h1.page-title, .singular .entry-title {
 }
 .map-header a:hover{
 	text-decoration:underline;
+}
+.map-header a#journey {
+    margin-bottom: 2rem;
+    display: block;
+    margin-left: 2.5%;
 }
 
 .map-container img {
