@@ -12,64 +12,12 @@
   </head>
 
   <body class="homepage">
-    <header>
-		<section id="big-title">
-			<img width="512" height="512" src="/img/cs-logo.png" class="custom-logo"/>
-			<div class="county">County</div> <div class="seats">Seats</div>
-		</section>
-    </header>
 
     <main{% if templateClass %} class="{{ templateClass }}"{% endif %} id="main" class="site-main" role="main">
 
-         <section id="maps">
-         	<div class="map-header">
-                <span id="journey">By the Numbers</span>
-            </div>
-         	<div class="map-container">
-         		<div class="heading">
-         			275 / 3142 Counties Completed
-         		</div>
-         		<img src="/img/counties.svg">
-         	</div>
-         	<div class="map-container">
-         		<div class="heading">
-         			4 States Completed<br> 20 States Underway
-         		</div>
-         		<img src="/img/states.svg">
-         	</div>
-         </section>
-
-
-		<section id="why">
-					
-            <div class="block">
-                <h2><strong>What is this?</strong></h2>
-
-                <p>Foremost, County Seats is a documentation tool for <a rel="noreferrer noopener" href="https://ryan.green" target="_blank">Ryan</a> to keep track of his journey to visit every <a rel="noreferrer noopener" href="https://en.wikipedia.org/wiki/County_seat" target="_blank">county seat</a> in the United States of America. If you've never counted, there are several of them.</p>
-            </div>
-
-
-
-            <div class="block">
-                <h2><strong>Is that all?</strong></h2>
-
-                <p>Nope! As a consequence of visiting many counties and having lots of great experiences along the way, I've stumbled upon bigger conversations about how urban and rural areas converge, how the infrastructure and built environment in small towns continue to evolve, and interesting opportunities for those that live and work in non-metropolitan areas.</p>
-
-                <p>This project has evolved to capture my thoughts about all of these things (and more).</p>
-
-                <div class="blog loop">
+        
                     {{ content | safe }}
-                </div>
 
-            </div>
-
-
-            <div class="block">
-                <h2><strong>But why visit county seats? I have so many questions...</strong></h2>
-
-                <p>For the full story behind why Ryan even started this project in the first place, <a href="/why/">you’re in luck</a>.</p>
-            </div>
-        </section>
 
 
     </main><!-- .site-main -->
