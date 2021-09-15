@@ -144,12 +144,8 @@ h1.page-title, .singular .entry-title {
 
 /* Intro Page */
 
-.page-template-intro-page #main{
+#main{
 	width: 80%;
-}
-
-.page-template-intro-page #main #main{
-	width: 100%;
 }
 
 .map-container {
@@ -197,7 +193,9 @@ h1.page-title, .singular .entry-title {
 }
 
 
-
+header {
+    border-bottom: none;
+}
 
 
 
@@ -232,67 +230,24 @@ h1.page-title, .singular .entry-title {
 #big-title .seats{
     text-align: right;
 }
-.page-template-intro-page #choose{
-	position: relative;
-	min-height: 30vh;
-	padding-top: 10vh;
-}
-
-.page-template-intro-page #choose a{
-	border: 10px solid white;
-	width: calc(40vw - 20px);
-	min-height: 18vh;
-	margin-left: 5vw;
-	margin-right: 5vw;
-	display: block;
-	padding-top: 5vh;
-
-	text-decoration: none;
-	text-align: center;
-    color: white;
-	font-size: 2.5rem;
-	font-weight: bold;
-
-	transition: all ease-in-out 0.2s;
-}
-
-.page-template-intro-page #choose a:hover{
-	transform: scale(1.05);
-	cursor: pointer;
-	opacity: 0.9;
-}
-
-.page-template-intro-page #choose a#discussion{
-    background-color: #0c51a0;
-	float: left;
-}
-
-.page-template-intro-page #choose a#journey{
-    background-color: #f38a26;
-	float: right;
-}
 
 
 
 
 
-.page-template-intro-page #why{
+
+#why{
 	width: 60vw;
 	margin-left: auto;
 	margin-right: auto;
+	margin-top: 5rem;
+	margin-bottom: 5rem;
 }
 
 
 
 
 @media all and (max-width: 950px) {
-	.page-template-intro-page #choose a{
-		width: calc(90vw - 20px);
-		margin-left: 5vw;
-		float: none !important;
-		margin-bottom: 5vh;
-	}
-
 	.map-container {
     	width: 100%;
     	margin-bottom: 40px;
@@ -301,30 +256,22 @@ h1.page-title, .singular .entry-title {
 }
 
 @media all and (max-width: 768px) {
-	.page-template-intro-page .custom-logo{
+	.custom-logo{
 		height: 100px;
 	}
 
-	.page-template-intro-page #big-title{
+	#big-title{
 		font-size:5rem; 
 		font-weight: bold;
 		width:300px;
 	}
 
-	.page-template-intro-page .county{
+	#big-title .county{
 		height: 5rem;
 	}
 
 	.page-template-intro-page #choose{
 		padding-top: 0vh;
-	}
-
-	.page-template-intro-page #choose a{
-		width: calc(90vw - 20px);
-		margin-left: auto;
-		margin-right: auto;
-		float: none !important;
-		margin-bottom: 5vh;
 	}
 
 	.map-header {
@@ -336,36 +283,29 @@ h1.page-title, .singular .entry-title {
 }
 
 @media all and (max-width: 650px) {
-	.page-template-intro-page #why{
+	#why{
 		width: 80vw;
 	}
 }
 
 
 @media all and (max-width: 414px) {
-	.page-template-intro-page .custom-logo{
+	.custom-logo{
 		height: 70px;
 	}
 
-	.page-template-intro-page #big-title{
+	#big-title{
 		font-size:4rem; 
 		font-weight: bold;
 		width:240px;
 		
 	}
 
-	.page-template-intro-page .county{
+	#big-title .county{
 		height: 4rem;
 		margin-top:-15px;
 	}
 
-	.page-template-intro-page #choose{
-		padding-top: 0vh;
-	}
-
-	.page-template-intro-page #choose a{
-		font-size: 1.5rem;
-	}
 }
 
 
