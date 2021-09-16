@@ -310,15 +310,24 @@ hr {
 
 
 /* Thoughts Page */
-.tmpl-home .postlist-link{
-	padding-left: 0;
-	width: 100%;
+.tmpl-home .postlist-link {
+    padding-left: 0;
+    width: 100%;
+    font-size: 2rem;
+    margin-bottom: -1rem;
 }
 .tmpl-home time{
 	width: 100%;
 }
 .tmpl-home .postlist-tags a.post-tag:first-of-type {
     margin-left: 0;
+}
+
+.tmpl-home .postlist-link:hover {
+    background: white;
+    text-decoration: none;
+    display: block;
+    width: auto;
 }
 
 
