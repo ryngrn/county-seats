@@ -5,7 +5,7 @@ date: 2021-08-03
 tags:
   - Urban / Rural Divide
 layout: layouts/post.njk
-permalink: "/thoughts/looking-at-the-urban-rural-divide"
+permalink: "/thoughts/looking-at-the-urban-rural-divide/"
 ---
 
 <img loading="lazy" width="1200" height="675" src="/img/thoughts/urban-rural-divide.jpeg" alt="" class="full-width-image"/>
