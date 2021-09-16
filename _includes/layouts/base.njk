@@ -6,6 +6,7 @@
     <title>{{ title or metadata.title }}</title>
     <meta name="description" content="{{ description or metadata.description }}">
     <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
+    <link rel="stylesheet" href="{{ '/css/glightbox.css' | url }}" />
     <link rel="stylesheet" href="{{ '/css/cs.css' | url }}">
     <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
     <link rel="alternate" href="{{ metadata.jsonfeed.path | url }}" type="application/json" title="{{ metadata.title }}">
@@ -42,6 +43,15 @@
         </a>
     </footer>
 
+    <script src="https://cdn.jsdelivr.net/npm/animejs@3.1.0/lib/anime.min.js"></script>
+    <script src="{{ '/js/glightbox.js' | url }}"></script>
+    <script>
+            var lightbox = GLightbox();
+            lightbox.on('open', (target) => {
+                console.log('lightbox opened');
+                selector: '.glightbox'
+            });
+        </script>
     <!-- Current page: {{ page.url | url }} -->
 </body>
 </html>

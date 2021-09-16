@@ -37,57 +37,50 @@ permalink: "/states/rhode-island/"
 <ul class="blocks-gallery-grid">
 	<li class="blocks-gallery-item">
 		<figure>
-			<a href="/img/thoughts/ri3.1.jpeg">
-				<img loading="lazy" width="960" height="720" src="/img/thoughts/ri3.1.jpeg" alt="" data-id="bristol" >
+			<a href="/img/thoughts/ri3.1.jpeg" class="glightbox" data-gallery="bristol">
+				<img loading="lazy" width="960" height="720" src="/img/thoughts/ri3.1.jpeg" alt="">
 			</a>
 		</figure>
 	</li>
 	<li class="blocks-gallery-item">
 		<figure>
-			<a href="/img/thoughts/ri3.2.jpeg">
-				<img loading="lazy" width="960" height="720" src="/img/thoughts/ri3.2.jpeg" alt="" data-id="bristol" >
+			<a href="/img/thoughts/ri3.3.jpeg" class="glightbox" data-gallery="bristol">
+				<img loading="lazy" width="960" height="720" src="/img/thoughts/ri3.3.jpeg" alt="" >
 			</a>
 		</figure>
 	</li>
 	<li class="blocks-gallery-item">
 		<figure>
-			<a href="/img/thoughts/ri3.3.jpeg">
-				<img loading="lazy" width="960" height="720" src="/img/thoughts/ri3.3.jpeg" alt="" data-id="bristol" >
+			<a href="/img/thoughts/ri3.4.jpeg" class="glightbox" data-gallery="bristol">
+				<img loading="lazy" width="960" height="720" src="/img/thoughts/ri3.4.jpeg" alt="" >
 			</a>
 		</figure>
 	</li>
 	<li class="blocks-gallery-item">
 		<figure>
-			<a href="/img/thoughts/ri3.4.jpeg">
-				<img loading="lazy" width="960" height="720" src="/img/thoughts/ri3.4.jpeg" alt="" data-id="bristol" >
+			<a href="/img/thoughts/ri3.5.jpeg" class="glightbox" data-gallery="bristol">
+				<img loading="lazy" width="960" height="720" src="/img/thoughts/ri3.5.jpeg" alt=""  >
 			</a>
 		</figure>
 	</li>
 	<li class="blocks-gallery-item">
 		<figure>
-			<a href="/img/thoughts/ri3.5.jpeg">
-				<img loading="lazy" width="960" height="720" src="/img/thoughts/ri3.5.jpeg" alt="" data-id="bristol" >
+			<a href="/img/thoughts/ri3.6.jpeg" class="glightbox" data-gallery="bristol">
+				<img loading="lazy" width="960" height="720" src="/img/thoughts/ri3.6.jpeg" alt="" >
 			</a>
 		</figure>
 	</li>
 	<li class="blocks-gallery-item">
 		<figure>
-			<a href="/img/thoughts/ri3.6.jpeg">
-				<img loading="lazy" width="960" height="720" src="/img/thoughts/ri3.6.jpeg" alt="" data-id="bristol" >
+			<a href="/img/thoughts/ri3.7.jpeg" class="glightbox" data-gallery="bristol">
+				<img loading="lazy" width="960" height="720" src="/img/thoughts/ri3.7.jpeg" alt="">
 			</a>
 		</figure>
 	</li>
 	<li class="blocks-gallery-item">
 		<figure>
-			<a href="/img/thoughts/ri3.7.jpeg">
-				<img loading="lazy" width="960" height="720" src="/img/thoughts/ri3.7.jpeg" alt="" data-id="bristol" >
-			</a>
-		</figure>
-	</li>
-	<li class="blocks-gallery-item">
-		<figure>
-			<a href="/img/thoughts/ri3.8.jpeg">
-				<img loading="lazy" width="960" height="720" src="/img/thoughts/ri3.8.jpeg" alt="" data-id="bristol" >
+			<a href="/img/thoughts/ri3.8.jpeg" class="glightbox" data-gallery="bristol">
+				<img loading="lazy" width="960" height="720" src="/img/thoughts/ri3.8.jpeg" alt="" >
 			</a>
 		</figure>
 	</li>
