@@ -316,6 +316,10 @@ hr {
     font-size: 2rem;
     line-height: 2.5rem;
 }
+.homepage .tmpl-home .postlist-link {
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
 .tmpl-home time{
 	width: 100%;
 }
@@ -328,6 +332,9 @@ hr {
     text-decoration-thickness: 5px;
     display: block;
     width: auto;
+}
+.homepage .tmpl-home .postlist-link:hover {
+	text-decoration-thickness: 3px;
 }
 
 
