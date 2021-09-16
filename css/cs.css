@@ -303,8 +303,14 @@ hr {
 }
 
 
-
-
+/* Thoughts Page */
+.tmpl-home .postlist-link{
+	padding-left: 0;
+	width: 100%;
+}
+.tmpl-home time{
+	width: 100%;
+}
 
 
 /* Single Post */
