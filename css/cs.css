@@ -314,18 +314,18 @@ hr {
     padding-left: 0;
     width: 100%;
     font-size: 2rem;
-    margin-bottom: -1rem;
+    line-height: 2.5rem;
 }
 .tmpl-home time{
 	width: 100%;
 }
-.tmpl-home .postlist-tags a.post-tag:first-of-type {
+.tmpl-home .postlist-tags a.post-tag {
     margin-left: 0;
+    margin-right: 5px;
 }
 
 .tmpl-home .postlist-link:hover {
-    background: white;
-    text-decoration: none;
+    text-decoration-thickness: 5px;
     display: block;
     width: auto;
 }
