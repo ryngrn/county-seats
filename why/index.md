@@ -8,9 +8,9 @@ eleventyNavigation:
 ---
 
 For those of you that are curious, this is how the County Seats project came to be. I blame a Nashville thrift store and National Geographic. Everything kinda snowballed after that.
-
-<h2>Close-Up U.S.A.</h2>
-<img class="full-size" src="/img/why-close-up-usa.jpeg" alt="1978 National Geographic Close Up USA Complete Map ..." />
+<br><br>
+<h1>Close-Up U.S.A.</h1>
+<img class="full-width-image" src="/img/why-close-up-usa.jpeg" alt="1978 National Geographic Close Up USA Complete Map ..." />
 <div class="entry-content">
 
 In my early 20s, I frequented thrift stores for vintage and mid-century modern items. I've always had an eye for design and at the time was working as a web designer for an advertising agency. Anything using tightly-kerned Helvetica can make me pull out a credit card and swipe!
@@ -65,4 +65,6 @@ I also plan to use my travels as source material for creative endeavors: goods f
 One question I get often from people is "Do you really think you're <em>actually </em>gonna get to every county?"
 
 With a full time job and no sponsorship of any kind, I have no way of knowing. It's a noble goal, and who knows how close I'll get. As of Jan 1, 2020 I've already completed 4 states. My first goal is to visit at least one county in every state, which is very doable. I'm eager to see more and can't wait to make it to my next state. After that, I'm just enjoying the ride.
+
+<br><br>
 	
