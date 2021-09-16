@@ -223,6 +223,15 @@ nav{
 	text-align: center;
 }
 
+footer .nav{
+	padding: 0;
+    list-style: none;
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
 hr {
     color: black;
     fill: black;
@@ -321,6 +330,10 @@ img.full-width-image{
 
 .tmpl-post .tag-wrapper{
 	text-align: center;
+}
+
+.tmpl-post p{
+	line-height: 1.75rem;
 }
 
 .postlist-date, .postlist-item:before{
