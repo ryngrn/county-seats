@@ -1,6 +1,6 @@
 ---
 title: Grocery Case Study of Williamson County, TN
-description: A look at the county markets / groceries in the southern-middle-Tennessee area near where I live
+description: After having written about the importance of county markets / groceries to rural areas, I dig in for a quick case study of those in the southern-middle-Tennessee area, within about a half hour radius from my office.
 date: 2021-08-27
 tags:
   - From the Road

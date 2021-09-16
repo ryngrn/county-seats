@@ -311,6 +311,9 @@ hr {
 .tmpl-home time{
 	width: 100%;
 }
+.tmpl-home .postlist-tags a.post-tag:first-of-type {
+    margin-left: 0;
+}
 
 
 /* Single Post */
