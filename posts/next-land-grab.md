@@ -40,5 +40,5 @@ permalink: "/thoughts/the-next-infrastructure-land-grab/"
 
 
 
-<p>Maybe it's idealistic. Maybe the cost-benefit on stocking nice things doesn't make sense in most areas. The ones that can figure it out will end up turning their crossroads grocery into a tourism destination. It seems like there's money to be had for those that can strike the right balance.</p>
+<p>Maybe it's idealistic. Maybe the cost-benefit on stocking nice things doesn't make sense in most areas. The ones that can figure it out will end up turning their <a href="/thoughts/a-case-for-the-grocery/">crossroads grocery</a> into a tourism destination. It seems like there's money to be had for those that can strike the right balance.</p>
 

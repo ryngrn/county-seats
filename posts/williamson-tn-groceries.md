@@ -10,7 +10,7 @@ tags:
 layout: layouts/post.njk
 permalink: "/thoughts/country-market-groceries-in-williamson-county-tennessee/"
 ---	
-<p>After writing about the <a href="https://countyseats.us/a-case-for-the-grocery/">importance of groceries</a>, I figure it makes sense to call out some of the groceries closest to me. In no particular order are those in the county that I live.<br></p>
+<p>After writing about the <a href="/thoughts/a-case-for-the-grocery/">importance of groceries</a>, I figure it makes sense to call out some of the groceries closest to me. In no particular order are those in the county that I live.<br></p>
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: A Case for the Grocery
-description: this isn't about big-box retailers like Kroger, Publix, or Stop-N-Shop. This is about the rural phenomena that I feel is already and potentially could be an even bigger physical location for the introduction and distribution of technology in rural environments.
+description: This isn't about big-box retailers like Kroger, Publix, or Stop-N-Shop. This is about the rural phenomena that I feel is already and potentially could be an even bigger physical location for the introduction and distribution of technology in rural environments.
 date: 2021-01-09
 tags:
   - Urban / Rural Divide
