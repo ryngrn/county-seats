@@ -291,6 +291,7 @@ hr {
 	margin-right: auto;
 	margin-top: 5rem;
 	margin-bottom: 5rem;
+	max-width: 750px;
 }
 
 #why h2 {
@@ -349,6 +350,13 @@ hr {
     margin-top: -0.5rem;
     margin-bottom: 0.5rem;
 }
+.homepage #main {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
 
 
 /* Single Post */
