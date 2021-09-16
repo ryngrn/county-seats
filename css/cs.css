@@ -418,6 +418,7 @@ img.full-width-image{
 }
 
 .blocks-gallery-item{
+	width: 33.33333333%;
 	list-style: none;
     overflow: hidden;
     max-height: 250px;
@@ -432,11 +433,12 @@ img.full-width-image{
 }
 
 .blocks-gallery-item img {
+    
     width: 100%;
     height: auto;
     transition: all ease-in-out 0.3s;
 }
-.blocks-gallery-item img {
+.blocks-gallery-item img:hover {
 	opacity: 0.7;
 }
 
