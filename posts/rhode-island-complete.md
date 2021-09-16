@@ -38,56 +38,56 @@ permalink: "/states/rhode-island/"
 	<li class="blocks-gallery-item">
 		<figure>
 			<a href="/img/thoughts/ri3.1.jpeg">
-				<img loading="lazy" width="960" height="720" src="/img/ri3.1.jpeg" alt="" data-id="bristol" >
+				<img loading="lazy" width="960" height="720" src="/img/thoughts/ri3.1.jpeg" alt="" data-id="bristol" >
 			</a>
 		</figure>
 	</li>
 	<li class="blocks-gallery-item">
 		<figure>
 			<a href="/img/thoughts/ri3.2.jpeg">
-				<img loading="lazy" width="960" height="720" src="/img/ri3.2.jpeg" alt="" data-id="bristol" >
+				<img loading="lazy" width="960" height="720" src="/img/thoughts/ri3.2.jpeg" alt="" data-id="bristol" >
 			</a>
 		</figure>
 	</li>
 	<li class="blocks-gallery-item">
 		<figure>
 			<a href="/img/thoughts/ri3.3.jpeg">
-				<img loading="lazy" width="960" height="720" src="/img/ri3.3.jpeg" alt="" data-id="bristol" >
+				<img loading="lazy" width="960" height="720" src="/img/thoughts/ri3.3.jpeg" alt="" data-id="bristol" >
 			</a>
 		</figure>
 	</li>
 	<li class="blocks-gallery-item">
 		<figure>
 			<a href="/img/thoughts/ri3.4.jpeg">
-				<img loading="lazy" width="960" height="720" src="/img/ri3.4.jpeg" alt="" data-id="bristol" >
+				<img loading="lazy" width="960" height="720" src="/img/thoughts/ri3.4.jpeg" alt="" data-id="bristol" >
 			</a>
 		</figure>
 	</li>
 	<li class="blocks-gallery-item">
 		<figure>
 			<a href="/img/thoughts/ri3.5.jpeg">
-				<img loading="lazy" width="960" height="720" src="/img/ri3.5.jpeg" alt="" data-id="bristol" >
+				<img loading="lazy" width="960" height="720" src="/img/thoughts/ri3.5.jpeg" alt="" data-id="bristol" >
 			</a>
 		</figure>
 	</li>
 	<li class="blocks-gallery-item">
 		<figure>
 			<a href="/img/thoughts/ri3.6.jpeg">
-				<img loading="lazy" width="960" height="720" src="/img/ri3.6.jpeg" alt="" data-id="bristol" >
+				<img loading="lazy" width="960" height="720" src="/img/thoughts/ri3.6.jpeg" alt="" data-id="bristol" >
 			</a>
 		</figure>
 	</li>
 	<li class="blocks-gallery-item">
 		<figure>
 			<a href="/img/thoughts/ri3.7.jpeg">
-				<img loading="lazy" width="960" height="720" src="/img/ri3.7.jpeg" alt="" data-id="bristol" >
+				<img loading="lazy" width="960" height="720" src="/img/thoughts/ri3.7.jpeg" alt="" data-id="bristol" >
 			</a>
 		</figure>
 	</li>
 	<li class="blocks-gallery-item">
 		<figure>
 			<a href="/img/thoughts/ri3.8.jpeg">
-				<img loading="lazy" width="960" height="720" src="/img/ri3.8.jpeg" alt="" data-id="bristol" >
+				<img loading="lazy" width="960" height="720" src="/img/thoughts/ri3.8.jpeg" alt="" data-id="bristol" >
 			</a>
 		</figure>
 	</li>
@@ -101,21 +101,21 @@ permalink: "/states/rhode-island/"
 	<li class="blocks-gallery-item">
 		<figure>
 			<a href="/img/thoughts/ri1.jpeg">
-				<img loading="lazy" width="960" height="720" src="/img/ri1.jpeg" alt="" data-id="washington" >
+				<img loading="lazy" width="960" height="720" src="/img/thoughts/ri1.jpeg" alt="" data-id="washington" >
 			</a>
 		</figure>
 	</li>
 	<li class="blocks-gallery-item">
 		<figure>
 			<a href="/img/thoughts/ri2.jpeg">
-				<img loading="lazy" width="960" height="720" src="/img/ri2.jpeg" alt="" data-id="washington" >
+				<img loading="lazy" width="960" height="720" src="/img/thoughts/ri2.jpeg" alt="" data-id="washington" >
 			</a>
 		</figure>
 	</li>
 	<li class="blocks-gallery-item">
 		<figure>
 			<a href="/img/thoughts/ri3.jpeg">
-				<img loading="lazy" width="960" height="720" src="/img/ri3.jpeg" alt="" data-id="washington" >
+				<img loading="lazy" width="960" height="720" src="/img/thoughts/ri3.jpeg" alt="" data-id="washington" >
 			</a>
 		</figure>
 	</li>
