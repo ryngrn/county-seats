@@ -326,7 +326,7 @@ hr {
 	font-style: italic;
     font-size: 14px;
 }
-.tmpl-home .postlist-tags a.post-tag, .tag-wrappr a.post-tag {
+.tmpl-home .postlist-tags a.post-tag, .tag-wrapper a.post-tag {
     margin-left: 0;
     margin-right: 5px;
     font-size: 12px;
