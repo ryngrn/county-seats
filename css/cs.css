@@ -323,10 +323,18 @@ hr {
 }
 .tmpl-home time{
 	width: 100%;
+	font-style: italic;
+    font-size: 14px;
 }
-.tmpl-home .postlist-tags a.post-tag {
+.tmpl-home .postlist-tags a.post-tag, .tag-wrappr {
     margin-left: 0;
     margin-right: 5px;
+    font-size: 12px;
+    background: rgba(255,255,255,0.4);
+    border: 0;
+}
+.tmpl-home .postlist-tags a.post-tag:hover, .tag-wrapper:hover {
+	background: rgba(255,255,255,0.9);
 }
 
 .tmpl-home .postlist-link:hover {
@@ -336,6 +344,10 @@ hr {
 }
 .homepage .tmpl-home .postlist-link:hover {
 	text-decoration-thickness: 3px;
+}
+.simple .tmpl-home .postlist-tags {
+    margin-top: -0.5rem;
+    margin-bottom: 0.5rem;
 }
 
 
