@@ -40,18 +40,16 @@ layout: layouts/home.njk
 
                 <p>Nope! As a consequence of visiting many counties and having lots of great experiences along the way, I've stumbled upon bigger conversations about how urban and rural areas converge, how the infrastructure and built environment in small towns continue to evolve, and interesting opportunities for those that live and work in non-metropolitan areas.</p>
 
-                <p>This project has evolved to capture my thoughts about all of these things (and more).</p>
+                <p>I also have been capturing <a href="{{ '/thoughts/' | url }}">my thoughts</a> if you're interested in that kind of thing.</p>
 
-                <div class="blog loop">
+                <h3>Latest Thoughts</h3>
+                <div class="blog-loop">
 
 				{% set maxPosts = collections.posts.length | min(3) %}
-				<h1>Latest Thoughts</h1>
 
 				{% set postslist = collections.posts | head(-3) %}
 				{% set postslistCounter = collections.posts | length %}
 				{% include "simple-postslist.njk" %}
-
-				<p>More thoughts can be found in <a href="{{ '/thoughts/' | url }}">the notebook</a>.</p>
 
                 </div>
 

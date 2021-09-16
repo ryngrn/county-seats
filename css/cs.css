@@ -152,7 +152,13 @@ h1.page-title, .singular .entry-title {
 
 
 /* Intro Page */
-
+.homepage .postlist-item{
+	margin-bottom: 1em;
+}
+.homepage .tmpl-home time {
+    font-size: 12px;
+    font-style: italic;
+}
 .social,
 .explainer{
 	text-align: center;
@@ -243,14 +249,14 @@ hr {
 
 
 
-#big-title{
-    font-size: 6rem;
+#big-title {
+    font-size: 5rem;
     font-weight: bold;
     width: 400px;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 5rem;
-    margin-bottom: 5rem;
+    margin-top: 4rem;
+    margin-bottom: 7rem;
 }
 
 #big-title img {
@@ -262,9 +268,9 @@ hr {
  
 }
 
-#big-title .county{
+#big-title .county {
     margin-left: 0;
-    height: 6rem;
+    height: 5rem;
     display: block;
     margin-top: 0px;
 }
