@@ -326,14 +326,14 @@ hr {
 	font-style: italic;
     font-size: 14px;
 }
-.tmpl-home .postlist-tags a.post-tag, .tag-wrappr {
+.tmpl-home .postlist-tags a.post-tag, .tag-wrappr a.post-tag {
     margin-left: 0;
     margin-right: 5px;
     font-size: 12px;
     background: rgba(255,255,255,0.4);
     border: 0;
 }
-.tmpl-home .postlist-tags a.post-tag:hover, .tag-wrapper:hover {
+.tmpl-home .postlist-tags a.post-tag:hover, .tag-wrapper a.post-tag:hover {
 	background: rgba(255,255,255,0.9);
 }
 
