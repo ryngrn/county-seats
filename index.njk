@@ -49,7 +49,7 @@ layout: layouts/home.njk
 
 				{% set postslist = collections.posts | head(-3) %}
 				{% set postslistCounter = collections.posts | length %}
-				{% include "postslist.njk" %}
+				{% include "simple-postslist.njk" %}
 
 				<p>More thoughts can be found in <a href="{{ '/thoughts/' | url }}">the notebook</a>.</p>
 
