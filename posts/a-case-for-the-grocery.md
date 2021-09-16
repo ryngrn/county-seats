@@ -62,4 +62,4 @@ permalink: "/thoughts/a-case-for-the-grocery/"
 
 
 
-<p>Whether it's offering electric vehicle supercharging while you grab lunch and more feed for your cattle, or offer a kiosk / facilitate faster delivery of goods a la Amazon lockers, there's a case to be made for groceries as being an untapped resource for further investment that could grow communities. Groceries are already hubs of commerce in rural America... are they potential hubs for technology distribution as well? I'd bet yes <img draggable="false" role="img" class="emoji" alt="😉" src="https://s.w.org/images/core/emoji/13.1.0/svg/1f609.svg"></p>
+<p>Whether it's offering electric vehicle supercharging while you grab lunch and more feed for your cattle, or offer a kiosk / facilitate faster delivery of goods a la Amazon lockers, there's a case to be made for groceries as being an untapped resource for further investment that could grow communities. Groceries are already hubs of commerce in rural America... are they potential hubs for technology distribution as well? I'd bet yes 😉</p>
