@@ -172,7 +172,8 @@ p, .tmpl-post li, img {
 .map-container {
     border-radius: 10px;
     background-color: rgba(0,0,0,0.05);
-    width: 44%;
+    width: 46%;
+    height: 38vw;
     overflow: hidden;
     display: inline-block;
     margin-right: 2.5%;
@@ -379,8 +380,9 @@ img.full-width-image{
 
 @media all and (max-width: 950px) {
 	.map-container {
-    	width: 100%;
+    	width: 95%;
     	margin-bottom: 40px;
+    	height: auto;
 	}
 
 }
