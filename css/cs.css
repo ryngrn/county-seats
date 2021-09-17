@@ -456,6 +456,24 @@ blockquote.pull-quote {
 
 
 
+@media all and (max-width: 1750px) {
+	.blocks-gallery-item {
+	    width: 33.33333333%;
+	    list-style: none;
+	    overflow: hidden;
+	    max-height: 185px;
+	}
+}
+
+
+@media all and (max-width: 1300px) {
+	.blocks-gallery-item {
+	    width: 33.33333333%;
+	    list-style: none;
+	    overflow: hidden;
+	    max-height: 125px;
+	}
+}
 
 @media all and (max-width: 992px) {
 	.map-container {
@@ -466,6 +484,18 @@ blockquote.pull-quote {
     	margin-right: 5%;
 	}
 
+}
+@media all and (max-width: 900px) {
+	.simple{
+		width: 80%;
+	}
+
+	.blocks-gallery-item {
+	    width: 50%;
+	    list-style: none;
+	    overflow: hidden;
+	    max-height: 200px;
+	}
 }
 
 @media all and (max-width: 768px) {
@@ -493,6 +523,15 @@ blockquote.pull-quote {
     	text-align: center;
 	}	
 
+}
+
+@media all and (max-width: 720px) {
+	.blocks-gallery-item {
+	    width: 100%;
+	    list-style: none;
+	    overflow: hidden;
+	    max-height: none;
+	}
 }
 
 @media all and (max-width: 650px) {
