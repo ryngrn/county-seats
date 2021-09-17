@@ -581,6 +581,9 @@ blockquote.pull-quote {
 		font-weight: bold;
 		width:240px;
 	}
+	#big-title img{
+		height: 60px;
+	}
 }
 
 
