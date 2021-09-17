@@ -99,7 +99,9 @@ html,body{
 	font-family:  -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
 
 }
-
+main{
+	padding: 0;
+}
 footer{
 	padding-bottom: 5rem;
 }
@@ -361,6 +363,11 @@ hr {
 
 /* Single Post */
 
+iframe.google-map {
+    width: 100vw;
+    margin-left: -33.5%;
+}
+
 img.full-width-image{
 	width: 100%;
 	max-width: 100%;
@@ -431,6 +438,7 @@ img.full-width-image{
     margin-block-end: 0;
     margin-inline-start: 0;
     margin-inline-end: 0;
+    line-height: 0;
 }
 
 .blocks-gallery-item img {
@@ -450,9 +458,10 @@ blockquote.pull-quote {
     border-bottom: black 1px solid;
     padding-top: 2rem;
     padding-bottom: 2rem;
-    width: 70%;
+    width: 100%;
     margin-left: auto;
     margin-right: auto;
+    font-style: italic;
 }
 
 
@@ -500,6 +509,11 @@ blockquote.pull-quote {
 	    list-style: none;
 	    overflow: hidden;
 	    max-height: 200px;
+	}
+
+	iframe.google-map {
+    	width: 100vw;
+    	margin-left: -12.5%;
 	}
 }
 
