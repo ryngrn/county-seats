@@ -10,6 +10,14 @@ layout: layouts/post.njk
 permalink: "/states/rhode-island/"
 ---	
 
+<blockquote class="pull-quote">
+	<p><strong>Finished November 7, 2017</strong></p>
+</blockquote>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d631181.027570265!2d-71.44629605424994!3d41.570699862219776!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1srhode%20island%20counties!5e0!3m2!1sen!2sus!4v1631896360364!5m2!1sen!2sus" width="100%" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+
+
 <p>Does anyone NOT living in the immediate vicinity know anything about Rhode Island? I know it's a state. I know it's in New England. I know it's between Boston and NYC. I know that Brown University is in a town called Providence. Everything else was pretty much a mystery. If I'm being honest, this is the first state I've gone through with zero expectations of what's there.</p>
 
 <p>If there's a state that epitomizes my goal of learning about places I've never been and likely will never have a reason to go, it's here.</p>
@@ -26,10 +34,6 @@ permalink: "/states/rhode-island/"
 
 
 
-<blockquote class="pull-quote">
-	<p><strong>Finished November 7, 2017</strong></p>
-</blockquote>
-
 
 <section class="single-county">
 	<h3>Bristol, Bristol County</h3>
@@ -38,49 +42,49 @@ permalink: "/states/rhode-island/"
 	<li class="blocks-gallery-item">
 		<figure>
 			<a href="/img/thoughts/ri3.1.jpeg" class="glightbox" data-gallery="bristol">
-				<img loading="lazy" width="960" height="720" src="/img/thoughts/ri3.1.jpeg" alt="">
+				<img loading="lazy" src="/img/thoughts/ri3.1.jpeg" alt="">
 			</a>
 		</figure>
 	</li>
 	<li class="blocks-gallery-item">
 		<figure>
 			<a href="/img/thoughts/ri3.3.jpeg" class="glightbox" data-gallery="bristol">
-				<img loading="lazy" width="960" height="720" src="/img/thoughts/ri3.3.jpeg" alt="" >
+				<img loading="lazy" src="/img/thoughts/ri3.3.jpeg" alt="" >
 			</a>
 		</figure>
 	</li>
 	<li class="blocks-gallery-item">
 		<figure>
 			<a href="/img/thoughts/ri3.4.jpeg" class="glightbox" data-gallery="bristol">
-				<img loading="lazy" width="960" height="720" src="/img/thoughts/ri3.4.jpeg" alt="" >
+				<img loading="lazy" src="/img/thoughts/ri3.4.jpeg" alt="" >
 			</a>
 		</figure>
 	</li>
 	<li class="blocks-gallery-item">
 		<figure>
 			<a href="/img/thoughts/ri3.5.jpeg" class="glightbox" data-gallery="bristol">
-				<img loading="lazy" width="960" height="720" src="/img/thoughts/ri3.5.jpeg" alt=""  >
+				<img loading="lazy" src="/img/thoughts/ri3.5.jpeg" alt=""  >
 			</a>
 		</figure>
 	</li>
 	<li class="blocks-gallery-item">
 		<figure>
 			<a href="/img/thoughts/ri3.6.jpeg" class="glightbox" data-gallery="bristol">
-				<img loading="lazy" width="960" height="720" src="/img/thoughts/ri3.6.jpeg" alt="" >
+				<img loading="lazy" src="/img/thoughts/ri3.6.jpeg" alt="" >
 			</a>
 		</figure>
 	</li>
 	<li class="blocks-gallery-item">
 		<figure>
 			<a href="/img/thoughts/ri3.7.jpeg" class="glightbox" data-gallery="bristol">
-				<img loading="lazy" width="960" height="720" src="/img/thoughts/ri3.7.jpeg" alt="">
+				<img loading="lazy" src="/img/thoughts/ri3.7.jpeg" alt="">
 			</a>
 		</figure>
 	</li>
 	<li class="blocks-gallery-item">
 		<figure>
 			<a href="/img/thoughts/ri3.8.jpeg" class="glightbox" data-gallery="bristol">
-				<img loading="lazy" width="960" height="720" src="/img/thoughts/ri3.8.jpeg" alt="" >
+				<img loading="lazy" src="/img/thoughts/ri3.8.jpeg" alt="" >
 			</a>
 		</figure>
 	</li>
@@ -93,47 +97,306 @@ permalink: "/states/rhode-island/"
 <ul class="blocks-gallery-grid">
 	<li class="blocks-gallery-item">
 		<figure>
-			<a href="/img/thoughts/ri1.jpeg">
-				<img loading="lazy" width="960" height="720" src="/img/thoughts/ri1.jpeg" alt="" data-id="washington" >
+			<a href="/img/thoughts/ri1.jpeg" class="glightbox" data-gallery="washington">
+				<img loading="lazy" src="/img/thoughts/ri1.jpeg" alt="" >
 			</a>
 		</figure>
 	</li>
 	<li class="blocks-gallery-item">
 		<figure>
-			<a href="/img/thoughts/ri2.jpeg">
-				<img loading="lazy" width="960" height="720" src="/img/thoughts/ri2.jpeg" alt="" data-id="washington" >
+			<a href="/img/thoughts/ri2.jpeg" class="glightbox" data-gallery="washington">
+				<img loading="lazy" src="/img/thoughts/ri2.jpeg" alt="">
 			</a>
 		</figure>
 	</li>
-	<li class="blocks-gallery-item">
+	<li class="blocks-gallery-item" class="glightbox" data-gallery="washington">
 		<figure>
-			<a href="/img/thoughts/ri3.jpeg">
-				<img loading="lazy" width="960" height="720" src="/img/thoughts/ri3.jpeg" alt="" data-id="washington" >
+			<a href="/img/thoughts/ri3.jpeg" class="glightbox" data-gallery="washington">
+				<img loading="lazy" src="/img/thoughts/ri3.jpeg" alt="" >
 			</a>
 		</figure>
 	</li>
 </ul>
 </section>
 
+
 <section class="single-county">
 	<h3>Providence, Providence County</h3>
 
-	<ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><a href="https://countyseats.us/wp-content/uploads/2021/08/ri2.15.jpeg"><img loading="lazy" width="960" height="720" src="https://countyseats.us/wp-content/uploads/2021/08/ri2.15.jpeg" alt="" data-id="261" data-full-url="https://countyseats.us/wp-content/uploads/2021/08/ri2.15.jpeg" data-link="https://countyseats.us/rhode-island/ri2-15/" class="wp-image-261" srcset="https://countyseats.us/wp-content/uploads/2021/08/ri2.15.jpeg 960w, https://countyseats.us/wp-content/uploads/2021/08/ri2.15-300x225.jpeg 300w, https://countyseats.us/wp-content/uploads/2021/08/ri2.15-768x576.jpeg 768w" sizes="(max-width: 960px) 100vw, 960px"></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://countyseats.us/wp-content/uploads/2021/08/ri2.14.jpeg"><img loading="lazy" width="720" height="960" src="https://countyseats.us/wp-content/uploads/2021/08/ri2.14.jpeg" alt="" data-id="262" data-full-url="https://countyseats.us/wp-content/uploads/2021/08/ri2.14.jpeg" data-link="https://countyseats.us/rhode-island/ri2-14/" class="wp-image-262" srcset="https://countyseats.us/wp-content/uploads/2021/08/ri2.14.jpeg 720w, https://countyseats.us/wp-content/uploads/2021/08/ri2.14-225x300.jpeg 225w" sizes="(max-width: 720px) 100vw, 720px"></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://countyseats.us/wp-content/uploads/2021/08/ri2.13.jpeg"><img loading="lazy" width="720" height="960" src="https://countyseats.us/wp-content/uploads/2021/08/ri2.13.jpeg" alt="" data-id="263" data-full-url="https://countyseats.us/wp-content/uploads/2021/08/ri2.13.jpeg" data-link="https://countyseats.us/rhode-island/ri2-13/" class="wp-image-263" srcset="https://countyseats.us/wp-content/uploads/2021/08/ri2.13.jpeg 720w, https://countyseats.us/wp-content/uploads/2021/08/ri2.13-225x300.jpeg 225w" sizes="(max-width: 720px) 100vw, 720px"></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://countyseats.us/wp-content/uploads/2021/08/ri2.12.jpeg"><img loading="lazy" width="960" height="720" src="https://countyseats.us/wp-content/uploads/2021/08/ri2.12.jpeg" alt="" data-id="264" data-full-url="https://countyseats.us/wp-content/uploads/2021/08/ri2.12.jpeg" data-link="https://countyseats.us/rhode-island/ri2-12/" class="wp-image-264" srcset="https://countyseats.us/wp-content/uploads/2021/08/ri2.12.jpeg 960w, https://countyseats.us/wp-content/uploads/2021/08/ri2.12-300x225.jpeg 300w, https://countyseats.us/wp-content/uploads/2021/08/ri2.12-768x576.jpeg 768w" sizes="(max-width: 960px) 100vw, 960px"></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://countyseats.us/wp-content/uploads/2021/08/ri2.11.jpeg"><img loading="lazy" width="960" height="720" src="https://countyseats.us/wp-content/uploads/2021/08/ri2.11.jpeg" alt="" data-id="265" data-full-url="https://countyseats.us/wp-content/uploads/2021/08/ri2.11.jpeg" data-link="https://countyseats.us/rhode-island/ri2-11/" class="wp-image-265" srcset="https://countyseats.us/wp-content/uploads/2021/08/ri2.11.jpeg 960w, https://countyseats.us/wp-content/uploads/2021/08/ri2.11-300x225.jpeg 300w, https://countyseats.us/wp-content/uploads/2021/08/ri2.11-768x576.jpeg 768w" sizes="(max-width: 960px) 100vw, 960px"></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://countyseats.us/wp-content/uploads/2021/08/ri2.10.jpeg"><img loading="lazy" width="960" height="720" src="https://countyseats.us/wp-content/uploads/2021/08/ri2.10.jpeg" alt="" data-id="266" data-full-url="https://countyseats.us/wp-content/uploads/2021/08/ri2.10.jpeg" data-link="https://countyseats.us/rhode-island/ri2-10/" class="wp-image-266" srcset="https://countyseats.us/wp-content/uploads/2021/08/ri2.10.jpeg 960w, https://countyseats.us/wp-content/uploads/2021/08/ri2.10-300x225.jpeg 300w, https://countyseats.us/wp-content/uploads/2021/08/ri2.10-768x576.jpeg 768w" sizes="(max-width: 960px) 100vw, 960px"></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://countyseats.us/wp-content/uploads/2021/08/ri2.9.jpeg"><img loading="lazy" width="720" height="960" src="https://countyseats.us/wp-content/uploads/2021/08/ri2.9.jpeg" alt="" data-id="267" data-full-url="https://countyseats.us/wp-content/uploads/2021/08/ri2.9.jpeg" data-link="https://countyseats.us/rhode-island/ri2-9/" class="wp-image-267" srcset="https://countyseats.us/wp-content/uploads/2021/08/ri2.9.jpeg 720w, https://countyseats.us/wp-content/uploads/2021/08/ri2.9-225x300.jpeg 225w" sizes="(max-width: 720px) 100vw, 720px"></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://countyseats.us/wp-content/uploads/2021/08/ri2.8.jpeg"><img loading="lazy" width="720" height="960" src="https://countyseats.us/wp-content/uploads/2021/08/ri2.8.jpeg" alt="" data-id="268" data-full-url="https://countyseats.us/wp-content/uploads/2021/08/ri2.8.jpeg" data-link="https://countyseats.us/rhode-island/ri2-8/" class="wp-image-268" srcset="https://countyseats.us/wp-content/uploads/2021/08/ri2.8.jpeg 720w, https://countyseats.us/wp-content/uploads/2021/08/ri2.8-225x300.jpeg 225w" sizes="(max-width: 720px) 100vw, 720px"></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://countyseats.us/wp-content/uploads/2021/08/ri2.7.jpeg"><img loading="lazy" width="720" height="960" src="https://countyseats.us/wp-content/uploads/2021/08/ri2.7.jpeg" alt="" data-id="269" data-full-url="https://countyseats.us/wp-content/uploads/2021/08/ri2.7.jpeg" data-link="https://countyseats.us/rhode-island/ri2-7/" class="wp-image-269" srcset="https://countyseats.us/wp-content/uploads/2021/08/ri2.7.jpeg 720w, https://countyseats.us/wp-content/uploads/2021/08/ri2.7-225x300.jpeg 225w" sizes="(max-width: 720px) 100vw, 720px"></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://countyseats.us/wp-content/uploads/2021/08/ri2.6.jpeg"><img loading="lazy" width="720" height="960" src="https://countyseats.us/wp-content/uploads/2021/08/ri2.6.jpeg" alt="" data-id="270" data-full-url="https://countyseats.us/wp-content/uploads/2021/08/ri2.6.jpeg" data-link="https://countyseats.us/rhode-island/ri2-6/" class="wp-image-270" srcset="https://countyseats.us/wp-content/uploads/2021/08/ri2.6.jpeg 720w, https://countyseats.us/wp-content/uploads/2021/08/ri2.6-225x300.jpeg 225w" sizes="(max-width: 720px) 100vw, 720px"></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://countyseats.us/wp-content/uploads/2021/08/ri2.5.jpeg"><img loading="lazy" width="720" height="960" src="https://countyseats.us/wp-content/uploads/2021/08/ri2.5.jpeg" alt="" data-id="271" data-full-url="https://countyseats.us/wp-content/uploads/2021/08/ri2.5.jpeg" data-link="https://countyseats.us/rhode-island/ri2-5/" class="wp-image-271" srcset="https://countyseats.us/wp-content/uploads/2021/08/ri2.5.jpeg 720w, https://countyseats.us/wp-content/uploads/2021/08/ri2.5-225x300.jpeg 225w" sizes="(max-width: 720px) 100vw, 720px"></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://countyseats.us/wp-content/uploads/2021/08/ri2.4.jpeg"><img loading="lazy" width="720" height="960" src="https://countyseats.us/wp-content/uploads/2021/08/ri2.4.jpeg" alt="" data-id="272" data-full-url="https://countyseats.us/wp-content/uploads/2021/08/ri2.4.jpeg" data-link="https://countyseats.us/rhode-island/ri2-4/" class="wp-image-272" srcset="https://countyseats.us/wp-content/uploads/2021/08/ri2.4.jpeg 720w, https://countyseats.us/wp-content/uploads/2021/08/ri2.4-225x300.jpeg 225w" sizes="(max-width: 720px) 100vw, 720px"></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://countyseats.us/wp-content/uploads/2021/08/ri2.3.jpeg"><img loading="lazy" width="720" height="960" src="https://countyseats.us/wp-content/uploads/2021/08/ri2.3.jpeg" alt="" data-id="273" data-full-url="https://countyseats.us/wp-content/uploads/2021/08/ri2.3.jpeg" data-link="https://countyseats.us/rhode-island/ri2-3/" class="wp-image-273" srcset="https://countyseats.us/wp-content/uploads/2021/08/ri2.3.jpeg 720w, https://countyseats.us/wp-content/uploads/2021/08/ri2.3-225x300.jpeg 225w" sizes="(max-width: 720px) 100vw, 720px"></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://countyseats.us/wp-content/uploads/2021/08/ri2.2.jpeg"><img loading="lazy" width="720" height="960" src="https://countyseats.us/wp-content/uploads/2021/08/ri2.2.jpeg" alt="" data-id="274" data-full-url="https://countyseats.us/wp-content/uploads/2021/08/ri2.2.jpeg" data-link="https://countyseats.us/rhode-island/ri2-2/" class="wp-image-274" srcset="https://countyseats.us/wp-content/uploads/2021/08/ri2.2.jpeg 720w, https://countyseats.us/wp-content/uploads/2021/08/ri2.2-225x300.jpeg 225w" sizes="(max-width: 720px) 100vw, 720px"></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://countyseats.us/wp-content/uploads/2021/08/ri2.1.jpeg"><img loading="lazy" width="720" height="960" src="https://countyseats.us/wp-content/uploads/2021/08/ri2.1.jpeg" alt="" data-id="275" data-full-url="https://countyseats.us/wp-content/uploads/2021/08/ri2.1.jpeg" data-link="https://countyseats.us/rhode-island/ri2-1/" class="wp-image-275" srcset="https://countyseats.us/wp-content/uploads/2021/08/ri2.1.jpeg 720w, https://countyseats.us/wp-content/uploads/2021/08/ri2.1-225x300.jpeg 225w" sizes="(max-width: 720px) 100vw, 720px"></a></figure></li>
+<ul class="blocks-gallery-grid">
+	<li class="blocks-gallery-item">
+		<figure>
+			<a href="/img/thoughts/ri2.1.jpeg" class="glightbox" data-gallery="providence">
+				<img loading="lazy" src="/img/thoughts/ri2.1.jpeg" alt="" >
+			</a>
+		</figure>
+	</li>
+	<li class="blocks-gallery-item">
+		<figure>
+			<a href="/img/thoughts/ri2.2.jpeg" class="glightbox" data-gallery="providence">
+				<img loading="lazy" src="/img/thoughts/ri2.2.jpeg" alt="" >
+			</a>
+		</figure>
+	</li>
+	<li class="blocks-gallery-item">
+		<figure>
+			<a href="/img/thoughts/ri2.3.jpeg" class="glightbox" data-gallery="providence">
+				<img loading="lazy" src="/img/thoughts/ri2.3.jpeg" alt="" >
+			</a>
+		</figure>
+	</li>
+	<li class="blocks-gallery-item">
+		<figure>
+			<a href="/img/thoughts/ri2.4.jpeg" class="glightbox" data-gallery="providence">
+				<img loading="lazy" src="/img/thoughts/ri2.4.jpeg" alt="" >
+			</a>
+		</figure>
+	</li>
+	<li class="blocks-gallery-item">
+		<figure>
+			<a href="/img/thoughts/ri2.5.jpeg" class="glightbox" data-gallery="providence">
+				<img loading="lazy" src="/img/thoughts/ri2.5.jpeg" alt="" >
+			</a>
+		</figure>
+	</li>
+	<li class="blocks-gallery-item">
+		<figure>
+			<a href="/img/thoughts/ri2.6.jpeg" class="glightbox" data-gallery="providence">
+				<img loading="lazy" src="/img/thoughts/ri2.6.jpeg" alt="" >
+			</a>
+		</figure>
+	</li>
+	<li class="blocks-gallery-item">
+		<figure>
+			<a href="/img/thoughts/ri2.7.jpeg" class="glightbox" data-gallery="providence">
+				<img loading="lazy" src="/img/thoughts/ri2.7.jpeg" alt="" >
+			</a>
+		</figure>
+	</li>
+	<li class="blocks-gallery-item">
+		<figure>
+			<a href="/img/thoughts/ri2.8.jpeg" class="glightbox" data-gallery="providence">
+				<img loading="lazy" src="/img/thoughts/ri2.8.jpeg" alt="" >
+			</a>
+		</figure>
+	</li>
+	<li class="blocks-gallery-item">
+		<figure>
+			<a href="/img/thoughts/ri2.9.jpeg" class="glightbox" data-gallery="providence">
+				<img loading="lazy" src="/img/thoughts/ri2.9.jpeg" alt="" >
+			</a>
+		</figure>
+	</li>
+	<li class="blocks-gallery-item">
+		<figure>
+			<a href="/img/thoughts/ri2.10.jpeg" class="glightbox" data-gallery="providence">
+				<img loading="lazy" src="/img/thoughts/ri2.10.jpeg" alt="" >
+			</a>
+		</figure>
+	</li>
+	<li class="blocks-gallery-item">
+		<figure>
+			<a href="/img/thoughts/ri2.11.jpeg" class="glightbox" data-gallery="providence">
+				<img loading="lazy" src="/img/thoughts/ri2.11.jpeg" alt="" >
+			</a>
+		</figure>
+	</li>
+	<li class="blocks-gallery-item">
+		<figure>
+			<a href="/img/thoughts/ri2.12.jpeg" class="glightbox" data-gallery="providence">
+				<img loading="lazy" src="/img/thoughts/ri2.12.jpeg" alt="" >
+			</a>
+		</figure>
+	</li>
+	<li class="blocks-gallery-item">
+		<figure>
+			<a href="/img/thoughts/ri2.13.jpeg" class="glightbox" data-gallery="providence">
+				<img loading="lazy" src="/img/thoughts/ri2.13.jpeg" alt="" >
+			</a>
+		</figure>
+	</li><li class="blocks-gallery-item">
+		<figure>
+			<a href="/img/thoughts/ri2.14.jpeg" class="glightbox" data-gallery="providence">
+				<img loading="lazy" src="/img/thoughts/ri2.14.jpeg" alt="" >
+			</a>
+		</figure>
+	</li>
+	<li class="blocks-gallery-item">
+		<figure>
+			<a href="/img/thoughts/ri2.15.jpeg" class="glightbox" data-gallery="providence">
+				<img loading="lazy" src="/img/thoughts/ri2.15.jpeg" alt="" >
+			</a>
+		</figure>
+	</li>
 </ul>
 </section>
 
 <section class="single-county">
 	<h3>Newport, Newport County</h3>
 
-
-
-<ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><a href="https://countyseats.us/wp-content/uploads/2021/08/ri4.1.jpeg"><img loading="lazy" width="960" height="720" src="https://countyseats.us/wp-content/uploads/2021/08/ri4.1.jpeg" alt="" data-id="293" data-full-url="https://countyseats.us/wp-content/uploads/2021/08/ri4.1.jpeg" data-link="https://countyseats.us/rhode-island/ri4-1/" class="wp-image-293" srcset="https://countyseats.us/wp-content/uploads/2021/08/ri4.1.jpeg 960w, https://countyseats.us/wp-content/uploads/2021/08/ri4.1-300x225.jpeg 300w, https://countyseats.us/wp-content/uploads/2021/08/ri4.1-768x576.jpeg 768w" sizes="(max-width: 960px) 100vw, 960px"></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://countyseats.us/wp-content/uploads/2021/08/ri4.2.jpeg"><img loading="lazy" width="960" height="720" src="https://countyseats.us/wp-content/uploads/2021/08/ri4.2.jpeg" alt="" data-id="292" data-full-url="https://countyseats.us/wp-content/uploads/2021/08/ri4.2.jpeg" data-link="https://countyseats.us/rhode-island/ri4-2/" class="wp-image-292" srcset="https://countyseats.us/wp-content/uploads/2021/08/ri4.2.jpeg 960w, https://countyseats.us/wp-content/uploads/2021/08/ri4.2-300x225.jpeg 300w, https://countyseats.us/wp-content/uploads/2021/08/ri4.2-768x576.jpeg 768w" sizes="(max-width: 960px) 100vw, 960px"></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://countyseats.us/wp-content/uploads/2021/08/ri4.9.jpeg"><img loading="lazy" width="960" height="720" src="https://countyseats.us/wp-content/uploads/2021/08/ri4.9.jpeg" alt="" data-id="285" data-full-url="https://countyseats.us/wp-content/uploads/2021/08/ri4.9.jpeg" data-link="https://countyseats.us/rhode-island/ri4-9/" class="wp-image-285" srcset="https://countyseats.us/wp-content/uploads/2021/08/ri4.9.jpeg 960w, https://countyseats.us/wp-content/uploads/2021/08/ri4.9-300x225.jpeg 300w, https://countyseats.us/wp-content/uploads/2021/08/ri4.9-768x576.jpeg 768w" sizes="(max-width: 960px) 100vw, 960px"></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://countyseats.us/wp-content/uploads/2021/08/ri4.8.jpeg"><img loading="lazy" width="720" height="960" src="https://countyseats.us/wp-content/uploads/2021/08/ri4.8.jpeg" alt="" data-id="286" data-full-url="https://countyseats.us/wp-content/uploads/2021/08/ri4.8.jpeg" data-link="https://countyseats.us/rhode-island/ri4-8/" class="wp-image-286" srcset="https://countyseats.us/wp-content/uploads/2021/08/ri4.8.jpeg 720w, https://countyseats.us/wp-content/uploads/2021/08/ri4.8-225x300.jpeg 225w" sizes="(max-width: 720px) 100vw, 720px"></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://countyseats.us/wp-content/uploads/2021/08/ri4.7.jpeg"><img loading="lazy" width="960" height="720" src="https://countyseats.us/wp-content/uploads/2021/08/ri4.7.jpeg" alt="" data-id="287" data-full-url="https://countyseats.us/wp-content/uploads/2021/08/ri4.7.jpeg" data-link="https://countyseats.us/rhode-island/ri4-7/" class="wp-image-287" srcset="https://countyseats.us/wp-content/uploads/2021/08/ri4.7.jpeg 960w, https://countyseats.us/wp-content/uploads/2021/08/ri4.7-300x225.jpeg 300w, https://countyseats.us/wp-content/uploads/2021/08/ri4.7-768x576.jpeg 768w" sizes="(max-width: 960px) 100vw, 960px"></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://countyseats.us/wp-content/uploads/2021/08/ri4.6.jpeg"><img loading="lazy" width="960" height="720" src="https://countyseats.us/wp-content/uploads/2021/08/ri4.6.jpeg" alt="" data-id="288" data-full-url="https://countyseats.us/wp-content/uploads/2021/08/ri4.6.jpeg" data-link="https://countyseats.us/rhode-island/ri4-6/" class="wp-image-288" srcset="https://countyseats.us/wp-content/uploads/2021/08/ri4.6.jpeg 960w, https://countyseats.us/wp-content/uploads/2021/08/ri4.6-300x225.jpeg 300w, https://countyseats.us/wp-content/uploads/2021/08/ri4.6-768x576.jpeg 768w" sizes="(max-width: 960px) 100vw, 960px"></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://countyseats.us/wp-content/uploads/2021/08/ri4.5.jpeg"><img loading="lazy" width="960" height="720" src="https://countyseats.us/wp-content/uploads/2021/08/ri4.5.jpeg" alt="" data-id="289" data-full-url="https://countyseats.us/wp-content/uploads/2021/08/ri4.5.jpeg" data-link="https://countyseats.us/rhode-island/ri4-5/" class="wp-image-289" srcset="https://countyseats.us/wp-content/uploads/2021/08/ri4.5.jpeg 960w, https://countyseats.us/wp-content/uploads/2021/08/ri4.5-300x225.jpeg 300w, https://countyseats.us/wp-content/uploads/2021/08/ri4.5-768x576.jpeg 768w" sizes="(max-width: 960px) 100vw, 960px"></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://countyseats.us/wp-content/uploads/2021/08/ri4.4.jpeg"><img loading="lazy" width="960" height="720" src="https://countyseats.us/wp-content/uploads/2021/08/ri4.4.jpeg" alt="" data-id="290" data-full-url="https://countyseats.us/wp-content/uploads/2021/08/ri4.4.jpeg" data-link="https://countyseats.us/rhode-island/ri4-4/" class="wp-image-290" srcset="https://countyseats.us/wp-content/uploads/2021/08/ri4.4.jpeg 960w, https://countyseats.us/wp-content/uploads/2021/08/ri4.4-300x225.jpeg 300w, https://countyseats.us/wp-content/uploads/2021/08/ri4.4-768x576.jpeg 768w" sizes="(max-width: 960px) 100vw, 960px"></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://countyseats.us/wp-content/uploads/2021/08/ri4.3.jpeg"><img loading="lazy" width="720" height="960" src="https://countyseats.us/wp-content/uploads/2021/08/ri4.3.jpeg" alt="" data-id="291" data-full-url="https://countyseats.us/wp-content/uploads/2021/08/ri4.3.jpeg" data-link="https://countyseats.us/rhode-island/ri4-3/" class="wp-image-291" srcset="https://countyseats.us/wp-content/uploads/2021/08/ri4.3.jpeg 720w, https://countyseats.us/wp-content/uploads/2021/08/ri4.3-225x300.jpeg 225w" sizes="(max-width: 720px) 100vw, 720px"></a></figure></li></ul>
+<ul class="blocks-gallery-grid">
+	<li class="blocks-gallery-item">
+		<figure>
+			<a href="/img/thoughts/ri4.1.jpeg" class="glightbox" data-gallery="newport">
+				<img loading="lazy" src="/img/thoughts/ri4.1.jpeg" alt="" >
+			</a>
+		</figure>
+	</li>
+	<li class="blocks-gallery-item">
+		<figure>
+			<a href="/img/thoughts/ri4.2.jpeg" class="glightbox" data-gallery="newport">
+				<img loading="lazy" src="/img/thoughts/ri4.2.jpeg" alt="" >
+			</a>
+		</figure>
+	</li>
+	<li class="blocks-gallery-item">
+		<figure>
+			<a href="/img/thoughts/ri4.3.jpeg" class="glightbox" data-gallery="newport">
+				<img loading="lazy" src="/img/thoughts/ri4.3.jpeg" alt="" >
+			</a>
+		</figure>
+	</li>
+	<li class="blocks-gallery-item">
+		<figure>
+			<a href="/img/thoughts/ri4.4.jpeg" class="glightbox" data-gallery="newport">
+				<img loading="lazy" src="/img/thoughts/ri4.4.jpeg" alt="" >
+			</a>
+		</figure>
+	</li>
+	<li class="blocks-gallery-item">
+		<figure>
+			<a href="/img/thoughts/ri4.5.jpeg" class="glightbox" data-gallery="newport">
+				<img loading="lazy" src="/img/thoughts/ri4.5.jpeg" alt="" >
+			</a>
+		</figure>
+	</li>
+	<li class="blocks-gallery-item">
+		<figure>
+			<a href="/img/thoughts/ri4.6.jpeg" class="glightbox" data-gallery="newport">
+				<img loading="lazy" src="/img/thoughts/ri4.6.jpeg" alt="" >
+			</a>
+		</figure>
+	</li>
+	<li class="blocks-gallery-item">
+		<figure>
+			<a href="/img/thoughts/ri4.7.jpeg" class="glightbox" data-gallery="newport">
+				<img loading="lazy" src="/img/thoughts/ri4.7.jpeg" alt="" >
+			</a>
+		</figure>
+	</li>
+	<li class="blocks-gallery-item">
+		<figure>
+			<a href="/img/thoughts/ri4.8.jpeg" class="glightbox" data-gallery="newport">
+				<img loading="lazy" src="/img/thoughts/ri4.8.jpeg" alt="" >
+			</a>
+		</figure>
+	</li>
+	<li class="blocks-gallery-item">
+		<figure>
+			<a href="/img/thoughts/ri4.9.jpeg" class="glightbox" data-gallery="newport">
+				<img loading="lazy" src="/img/thoughts/ri4.9.jpeg" alt="" >
+			</a>
+		</figure>
+	</li>
+</ul>
 
 </section>
+
 
 <section class="single-county">
 	<h3>East Grenwich, Kent County</h3>
 
-<ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><a href="https://countyseats.us/wp-content/uploads/2021/08/ri5.13.jpeg"><img loading="lazy" width="720" height="960" src="https://countyseats.us/wp-content/uploads/2021/08/ri5.13.jpeg" alt="" data-id="294" data-full-url="https://countyseats.us/wp-content/uploads/2021/08/ri5.13.jpeg" data-link="https://countyseats.us/rhode-island/ri5-13/" class="wp-image-294" srcset="https://countyseats.us/wp-content/uploads/2021/08/ri5.13.jpeg 720w, https://countyseats.us/wp-content/uploads/2021/08/ri5.13-225x300.jpeg 225w" sizes="(max-width: 720px) 100vw, 720px"></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://countyseats.us/wp-content/uploads/2021/08/ri5.12.jpeg"><img loading="lazy" width="960" height="720" src="https://countyseats.us/wp-content/uploads/2021/08/ri5.12.jpeg" alt="" data-id="295" data-full-url="https://countyseats.us/wp-content/uploads/2021/08/ri5.12.jpeg" data-link="https://countyseats.us/rhode-island/ri5-12/" class="wp-image-295" srcset="https://countyseats.us/wp-content/uploads/2021/08/ri5.12.jpeg 960w, https://countyseats.us/wp-content/uploads/2021/08/ri5.12-300x225.jpeg 300w, https://countyseats.us/wp-content/uploads/2021/08/ri5.12-768x576.jpeg 768w" sizes="(max-width: 960px) 100vw, 960px"></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://countyseats.us/wp-content/uploads/2021/08/ri5.11.jpeg"><img loading="lazy" width="960" height="720" src="https://countyseats.us/wp-content/uploads/2021/08/ri5.11.jpeg" alt="" data-id="296" data-full-url="https://countyseats.us/wp-content/uploads/2021/08/ri5.11.jpeg" data-link="https://countyseats.us/rhode-island/ri5-11/" class="wp-image-296" srcset="https://countyseats.us/wp-content/uploads/2021/08/ri5.11.jpeg 960w, https://countyseats.us/wp-content/uploads/2021/08/ri5.11-300x225.jpeg 300w, https://countyseats.us/wp-content/uploads/2021/08/ri5.11-768x576.jpeg 768w" sizes="(max-width: 960px) 100vw, 960px"></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://countyseats.us/wp-content/uploads/2021/08/ri5.10.jpeg"><img loading="lazy" width="720" height="960" src="https://countyseats.us/wp-content/uploads/2021/08/ri5.10.jpeg" alt="" data-id="297" data-full-url="https://countyseats.us/wp-content/uploads/2021/08/ri5.10.jpeg" data-link="https://countyseats.us/rhode-island/ri5-10/" class="wp-image-297" srcset="https://countyseats.us/wp-content/uploads/2021/08/ri5.10.jpeg 720w, https://countyseats.us/wp-content/uploads/2021/08/ri5.10-225x300.jpeg 225w" sizes="(max-width: 720px) 100vw, 720px"></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://countyseats.us/wp-content/uploads/2021/08/ri5.9.jpeg"><img loading="lazy" width="720" height="960" src="https://countyseats.us/wp-content/uploads/2021/08/ri5.9.jpeg" alt="" data-id="298" data-full-url="https://countyseats.us/wp-content/uploads/2021/08/ri5.9.jpeg" data-link="https://countyseats.us/rhode-island/ri5-9/" class="wp-image-298" srcset="https://countyseats.us/wp-content/uploads/2021/08/ri5.9.jpeg 720w, https://countyseats.us/wp-content/uploads/2021/08/ri5.9-225x300.jpeg 225w" sizes="(max-width: 720px) 100vw, 720px"></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://countyseats.us/wp-content/uploads/2021/08/ri5.8.jpeg"><img loading="lazy" width="960" height="720" src="https://countyseats.us/wp-content/uploads/2021/08/ri5.8.jpeg" alt="" data-id="299" data-full-url="https://countyseats.us/wp-content/uploads/2021/08/ri5.8.jpeg" data-link="https://countyseats.us/rhode-island/ri5-8/" class="wp-image-299" srcset="https://countyseats.us/wp-content/uploads/2021/08/ri5.8.jpeg 960w, https://countyseats.us/wp-content/uploads/2021/08/ri5.8-300x225.jpeg 300w, https://countyseats.us/wp-content/uploads/2021/08/ri5.8-768x576.jpeg 768w" sizes="(max-width: 960px) 100vw, 960px"></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://countyseats.us/wp-content/uploads/2021/08/ri5.7.jpeg"><img loading="lazy" width="960" height="720" src="https://countyseats.us/wp-content/uploads/2021/08/ri5.7.jpeg" alt="" data-id="300" data-full-url="https://countyseats.us/wp-content/uploads/2021/08/ri5.7.jpeg" data-link="https://countyseats.us/rhode-island/ri5-7/" class="wp-image-300" srcset="https://countyseats.us/wp-content/uploads/2021/08/ri5.7.jpeg 960w, https://countyseats.us/wp-content/uploads/2021/08/ri5.7-300x225.jpeg 300w, https://countyseats.us/wp-content/uploads/2021/08/ri5.7-768x576.jpeg 768w" sizes="(max-width: 960px) 100vw, 960px"></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://countyseats.us/wp-content/uploads/2021/08/ri5.6.jpeg"><img loading="lazy" width="960" height="720" src="https://countyseats.us/wp-content/uploads/2021/08/ri5.6.jpeg" alt="" data-id="301" data-full-url="https://countyseats.us/wp-content/uploads/2021/08/ri5.6.jpeg" data-link="https://countyseats.us/rhode-island/ri5-6/" class="wp-image-301" srcset="https://countyseats.us/wp-content/uploads/2021/08/ri5.6.jpeg 960w, https://countyseats.us/wp-content/uploads/2021/08/ri5.6-300x225.jpeg 300w, https://countyseats.us/wp-content/uploads/2021/08/ri5.6-768x576.jpeg 768w" sizes="(max-width: 960px) 100vw, 960px"></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://countyseats.us/wp-content/uploads/2021/08/ri5.5.jpeg"><img loading="lazy" width="960" height="720" src="https://countyseats.us/wp-content/uploads/2021/08/ri5.5.jpeg" alt="" data-id="302" data-full-url="https://countyseats.us/wp-content/uploads/2021/08/ri5.5.jpeg" data-link="https://countyseats.us/rhode-island/ri5-5/" class="wp-image-302" srcset="https://countyseats.us/wp-content/uploads/2021/08/ri5.5.jpeg 960w, https://countyseats.us/wp-content/uploads/2021/08/ri5.5-300x225.jpeg 300w, https://countyseats.us/wp-content/uploads/2021/08/ri5.5-768x576.jpeg 768w" sizes="(max-width: 960px) 100vw, 960px"></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://countyseats.us/wp-content/uploads/2021/08/ri5.4.jpeg"><img loading="lazy" width="960" height="720" src="https://countyseats.us/wp-content/uploads/2021/08/ri5.4.jpeg" alt="" data-id="303" data-full-url="https://countyseats.us/wp-content/uploads/2021/08/ri5.4.jpeg" data-link="https://countyseats.us/rhode-island/ri5-4/" class="wp-image-303" srcset="https://countyseats.us/wp-content/uploads/2021/08/ri5.4.jpeg 960w, https://countyseats.us/wp-content/uploads/2021/08/ri5.4-300x225.jpeg 300w, https://countyseats.us/wp-content/uploads/2021/08/ri5.4-768x576.jpeg 768w" sizes="(max-width: 960px) 100vw, 960px"></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://countyseats.us/wp-content/uploads/2021/08/ri5.3.jpeg"><img loading="lazy" width="960" height="720" src="https://countyseats.us/wp-content/uploads/2021/08/ri5.3.jpeg" alt="" data-id="304" data-full-url="https://countyseats.us/wp-content/uploads/2021/08/ri5.3.jpeg" data-link="https://countyseats.us/rhode-island/ri5-3/" class="wp-image-304" srcset="https://countyseats.us/wp-content/uploads/2021/08/ri5.3.jpeg 960w, https://countyseats.us/wp-content/uploads/2021/08/ri5.3-300x225.jpeg 300w, https://countyseats.us/wp-content/uploads/2021/08/ri5.3-768x576.jpeg 768w" sizes="(max-width: 960px) 100vw, 960px"></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://countyseats.us/wp-content/uploads/2021/08/ri5.2.jpeg"><img loading="lazy" width="960" height="720" src="https://countyseats.us/wp-content/uploads/2021/08/ri5.2.jpeg" alt="" data-id="305" data-full-url="https://countyseats.us/wp-content/uploads/2021/08/ri5.2.jpeg" data-link="https://countyseats.us/rhode-island/ri5-2/" class="wp-image-305" srcset="https://countyseats.us/wp-content/uploads/2021/08/ri5.2.jpeg 960w, https://countyseats.us/wp-content/uploads/2021/08/ri5.2-300x225.jpeg 300w, https://countyseats.us/wp-content/uploads/2021/08/ri5.2-768x576.jpeg 768w" sizes="(max-width: 960px) 100vw, 960px"></a></figure></li><li class="blocks-gallery-item"><figure><a href="https://countyseats.us/wp-content/uploads/2021/08/ri5.1.jpeg"><img loading="lazy" width="720" height="960" src="https://countyseats.us/wp-content/uploads/2021/08/ri5.1.jpeg" alt="" data-id="306" data-full-url="https://countyseats.us/wp-content/uploads/2021/08/ri5.1.jpeg" data-link="https://countyseats.us/rhode-island/ri5-1/" class="wp-image-306" srcset="https://countyseats.us/wp-content/uploads/2021/08/ri5.1.jpeg 720w, https://countyseats.us/wp-content/uploads/2021/08/ri5.1-225x300.jpeg 225w" sizes="(max-width: 720px) 100vw, 720px"></a></figure></li></ul>
+<ul class="blocks-gallery-grid">
+	<li class="blocks-gallery-item">
+		<figure>
+			<a href="/img/thoughts/ri5.1.jpeg" class="glightbox" data-gallery="kent">
+				<img loading="lazy" src="/img/thoughts/ri5.1.jpeg" alt="" >
+			</a>
+		</figure>
+	</li>
+	<li class="blocks-gallery-item">
+		<figure>
+			<a href="/img/thoughts/ri5.2.jpeg" class="glightbox" data-gallery="kent">
+				<img loading="lazy" src="/img/thoughts/ri5.2.jpeg" alt="" >
+			</a>
+		</figure>
+	</li>
+	<li class="blocks-gallery-item">
+		<figure>
+			<a href="/img/thoughts/ri5.3.jpeg" class="glightbox" data-gallery="kent">
+				<img loading="lazy" src="/img/thoughts/ri5.3.jpeg" alt="" >
+			</a>
+		</figure>
+	</li>
+	<li class="blocks-gallery-item">
+		<figure>
+			<a href="/img/thoughts/ri5.4.jpeg" class="glightbox" data-gallery="kent">
+				<img loading="lazy" src="/img/thoughts/ri5.4.jpeg" alt="" >
+			</a>
+		</figure>
+	</li>
+	<li class="blocks-gallery-item">
+		<figure>
+			<a href="/img/thoughts/ri5.5.jpeg" class="glightbox" data-gallery="kent">
+				<img loading="lazy" src="/img/thoughts/ri5.5.jpeg" alt="" >
+			</a>
+		</figure>
+	</li>
+	<li class="blocks-gallery-item">
+		<figure>
+			<a href="/img/thoughts/ri5.6.jpeg" class="glightbox" data-gallery="kent">
+				<img loading="lazy" src="/img/thoughts/ri5.6.jpeg" alt="" >
+			</a>
+		</figure>
+	</li>
+	<li class="blocks-gallery-item">
+		<figure>
+			<a href="/img/thoughts/ri5.7.jpeg" class="glightbox" data-gallery="kent">
+				<img loading="lazy" src="/img/thoughts/ri5.7.jpeg" alt="" >
+			</a>
+		</figure>
+	</li>
+	<li class="blocks-gallery-item">
+		<figure>
+			<a href="/img/thoughts/ri5.8.jpeg" class="glightbox" data-gallery="kent">
+				<img loading="lazy" src="/img/thoughts/ri5.8.jpeg" alt="" >
+			</a>
+		</figure>
+	</li>
+	<li class="blocks-gallery-item">
+		<figure>
+			<a href="/img/thoughts/ri5.9.jpeg" class="glightbox" data-gallery="kent">
+				<img loading="lazy" src="/img/thoughts/ri5.9.jpeg" alt="" >
+			</a>
+		</figure>
+	</li>
+	<li class="blocks-gallery-item">
+		<figure>
+			<a href="/img/thoughts/ri5.10.jpeg" class="glightbox" data-gallery="kent">
+				<img loading="lazy" src="/img/thoughts/ri5.10.jpeg" alt="" >
+			</a>
+		</figure>
+	</li>
+	<li class="blocks-gallery-item">
+		<figure>
+			<a href="/img/thoughts/ri5.11.jpeg" class="glightbox" data-gallery="kent">
+				<img loading="lazy" src="/img/thoughts/ri5.11.jpeg" alt="" >
+			</a>
+		</figure>
+	</li>
+	<li class="blocks-gallery-item">
+		<figure>
+			<a href="/img/thoughts/ri5.12.jpeg" class="glightbox" data-gallery="kent">
+				<img loading="lazy" src="/img/thoughts/ri5.12.jpeg" alt="" >
+			</a>
+		</figure>
+	</li>
+	<li class="blocks-gallery-item">
+		<figure>
+			<a href="/img/thoughts/ri5.13.jpeg" class="glightbox" data-gallery="kent">
+				<img loading="lazy" src="/img/thoughts/ri5.13.jpeg" alt="" >
+			</a>
+		</figure>
 
+</ul>
 </section>
