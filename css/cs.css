@@ -387,6 +387,7 @@ img.full-width-image{
 
 .simple .tmpl-post p {
     width: 720px;
+    max-width: 100%;
     margin-left: auto;
     margin-right: auto;
     line-height: 1.75rem;
@@ -482,6 +483,10 @@ blockquote.pull-quote {
     	height: auto;
     	margin-left: 5%;
     	margin-right: 5%;
+	}
+
+	.blockquote.pull-quote {
+		width:; 100%;
 	}
 
 }
