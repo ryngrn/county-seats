@@ -12,7 +12,7 @@ permalink: "/thoughts/the-next-infrastructure-land-grab/"
 ---
 
 
-<img src="https://countyseats.us/wp-content/uploads/2021/09/tn-rr.jpg" class="full-width-image" alt="Old railroads of Tennessee" srcset="https://countyseats.us/wp-content/uploads/2021/09/tn-rr.jpg">
+<img src="/img/thoughts/tn-rr.jpg">
 		
 <p>Throughout history, the path towards growing a city into a community has been closely tied to infrastructure… especially the infrastructure of travel. The September edition of Tennessee Magazine ran <a rel="noreferrer noopener" href="https://www.tnmagazine.org/railroads-turned-tennessee-towns-into-cities/" data-type="URL" data-id="https://www.tnmagazine.org/railroads-turned-tennessee-towns-into-cities/" target="_blank">a great article</a> about how railroads took small towns and grew them exponentially compared to those towns that were near, and were along the riverboat paths, but didn't get as much rail service. </p>
 
