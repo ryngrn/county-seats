@@ -184,6 +184,7 @@ p, .tmpl-post li, img {
     padding-left: 10px;
     padding-right: 10px;
     margin-left: 2.5%;
+    max-height: 460px;
 }
 .map-container:hover{
 	/*background-color: rgba(255,255,255,0.1);*/
@@ -492,6 +493,7 @@ blockquote.pull-quote {
     	height: auto;
     	margin-left: 5%;
     	margin-right: 5%;
+    	max-height: unset;
 	}
 
 	.blockquote.pull-quote {
