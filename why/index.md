@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Where It All Began
-templateClass: tmpl-post
+templateClass: tmpl-post why
 eleventyNavigation:
   key: Why
   order: 3
