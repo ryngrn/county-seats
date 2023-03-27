@@ -9,7 +9,7 @@ eleventyNavigation:
 
 For those of you that are curious, this is how the County Seats project came to be. I blame a Nashville thrift store and National Geographic. Everything kinda snowballed after that.
 <br><br>
-<h1>Close-Up U.S.A.</h1>
+<h2>Close-Up U.S.A.</h2>
 <img class="full-width-image" src="/img/why-close-up-usa.jpeg" alt="1978 National Geographic Close Up USA Complete Map ..." />
 <div class="entry-content">
 
