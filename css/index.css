@@ -247,3 +247,13 @@ a[href].direct-link:focus:visited,
 :hover > a[href].direct-link:visited {
   color: #aaa;
 }
+
+
+/* Map-Specific */
+.map-container.zoom-in {
+    background: url(https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-magnifier-7.png) no-repeat bottom right;
+    background-size: 3em 3em;
+}
+.map-container.zoom-in:hover{
+    background-size: 3.7em 3.7em;
+}
