@@ -1,6 +1,7 @@
 ---
 layout: layouts/home.njk
 ---
+
 <section id="big-title">
             <img width="512" height="512" src="/img/cs-logo.png" class="custom-logo"/>
             <div class="county">County</div> <div class="seats">Seats</div>
@@ -8,7 +9,7 @@ layout: layouts/home.njk
 
          <section id="maps">
          	<div class="map-container">
-              <a href="https://countyseats.us/tags/state-complete/">
+              <a href="/img/counties.svg" class="glightbox" data-glightbox="title: Completed Counties; type: image; effect: fade; zoomable: true; draggable: true;">
                 <div class="heading">
                     264 / 3142 Counties Completed
                 </div>
@@ -61,3 +62,11 @@ layout: layouts/home.njk
                 <p>For the full story behind why Ryan even started this project in the first place, <a href="/why/">you’re in luck</a>.</p>
             </div>
         </section>
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/mcstudios/glightbox/dist/js/glightbox.min.js"></script>
+
+<script type="text/javascript">
+  const lightbox = GLightbox();
+</script>
