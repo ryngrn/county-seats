@@ -55,7 +55,7 @@ The Close-Up U.S.A. box that I've had for a decade now is still in my home offic
 
 In the same spirit of starting a quest to see every county in America in order to push me to explore, I've also started exploring thoughts around how rural areas connect to more urban ones, how they're different and why that matters, as well as the role technology plays in all of this.
 
-County Seats even inspired me to try <a href="/county-seat-podcast/">podcasting</a>. I'm not great at it, but I'm sure that I'll learn a ton about that along the way.
+County Seats even inspired me to try podcasting for a brief time. 
 
 I also plan to use my travels as source material for creative endeavors: goods for sale (posters, shirts, stickers), writing songs, and Lord knows what else.
 
@@ -64,7 +64,7 @@ I also plan to use my travels as source material for creative endeavors: goods f
 
 One question I get often from people is "Do you really think you're <em>actually </em>gonna get to every county?"
 
-With a full time job and no sponsorship of any kind, I have no way of knowing. It's a noble goal, and who knows how close I'll get. As of Jan 1, 2020 I've already completed 4 states. My first goal is to visit at least one county in every state, which is very doable. I'm eager to see more and can't wait to make it to my next state. After that, I'm just enjoying the ride.
+With a full time job and no sponsorship of any kind, I have no way of knowing. It's a noble goal, and who knows how close I'll get. As of Jan 1, 2020 I've already completed 4 states. I'd love to complete more states, which I'll probably continue throughout my life. I'd like to visit at least one county in every state, which feels doable. I'm eager to see more and can't wait to make it to my next state. After that, I'm just enjoying the ride.
 
 <br><br>
 	
