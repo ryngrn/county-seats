@@ -267,3 +267,16 @@ a[href].direct-link:focus:visited,
     transform: scale(1.05);
     opacity: 100%;
 }
+
+.gslide-image img{
+    width: 80vw !important;
+    max-width: 80vw !important;
+}
+
+@media screen (max-width: 780px){
+  .gslide-image img{
+    width: inherit !important;
+    max-width: inherit !important;
+  }
+
+}
