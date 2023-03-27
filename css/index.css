@@ -250,10 +250,11 @@ a[href].direct-link:focus:visited,
 
 
 /* Map-Specific */
-.map-container.zoom-in {
-    background: url(https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-magnifier-7.png) no-repeat bottom right;
+.map-container.zoom-in::after {
+    background: url(img/zoom-in.svg) no-repeat bottom right;
     background-size: 3em 3em;
+
 }
-.map-container.zoom-in:hover{
-    background-size: 3.7em 3.7em;
+.map-container.zoom-in::after:hover{
+    background-size: 3.2em 3.2em;
 }
