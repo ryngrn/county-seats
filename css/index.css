@@ -250,11 +250,20 @@ a[href].direct-link:focus:visited,
 
 
 /* Map-Specific */
-.map-container.zoom-in::after {
-    background: url(img/zoom-in.svg) no-repeat bottom right;
-    background-size: 3em 3em;
-
+.zoomable{
+  position: relative;
 }
-.map-container.zoom-in::after:hover{
-    background-size: 3.2em 3.2em;
+.zoomable .zoom-in {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    right: 1em;
+    bottom: 1em;
+    display: block;
+    opacity: 40%;
+    
+}
+.zoomable:hover .zoom-in{
+    transform: scale(1.05);
+    opacity: 100%;
 }

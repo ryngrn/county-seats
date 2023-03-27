@@ -8,20 +8,24 @@ layout: layouts/home.njk
         </section>
 
          <section id="maps">
-         	<div class="map-container zoom-in">
+            <div class="map-container zoomable">
               <a href="/img/counties.svg" class="glightbox" data-glightbox="type: image; effect: fade; zoomable: true; draggable: true;">
                 <div class="heading">
                     264 / 3142 Counties Completed
                 </div>
                 <img src="/img/counties.svg"></a>
+                <img class="zoom-in" src="img/zoom-in.svg" />
             </div>
-         		
-         	<div class="map-container">
-         		<div class="heading">
-         			4 States Completed<br> 20 States Underway
-         		</div>
-         		<img src="/img/states.svg">
-         	</div>
+                
+            <div class="map-container zoomable">
+                <a href="/img/states.svg" class="glightbox" data-glightbox="type: image; effect: fade; zoomable: true; draggable: true;">
+                    <div class="heading">
+                        4 States Completed<br> 20 States Underway
+                    </div>
+                    <img src="/img/states.svg">
+                    <img class="zoom-in" src="img/zoom-in.svg" />
+                </a>
+            </div>
          </section>
 
 
