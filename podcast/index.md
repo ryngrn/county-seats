@@ -2,7 +2,10 @@
 layout: layouts/post.njk
 title: The County Seat Podcast
 templateClass: tmpl-post
-permalink: "county-seat-podcast/"
+permalink: "podcast/"
+eleventyNavigation:
+  key: Podcast
+  order: 3
 ---
 
 <p>One of the great things about traveling to the different county seats is learning so much about the places I've visited. The history is a big reason - from the origin story, times a place was thriving, times they've not done as well, local legends - but also what's there now and how it ties into all of that.</p>

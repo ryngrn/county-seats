@@ -4,7 +4,7 @@ title: Where It All Began
 templateClass: tmpl-post why
 eleventyNavigation:
   key: Why
-  order: 3
+  order: 2
 ---
 
 For those of you that are curious, this is how the County Seats project came to be. I blame a Nashville thrift store and National Geographic. Everything kinda snowballed after that.
