@@ -314,11 +314,12 @@ main.tmpl-post.why h2 {
 }
 
 
-.explainer{
-	font-size: 11px;
-	top: -20px;
-	display: block;
-	position: relative;
+.explainer {
+    font-size: 11px;
+    top: 50px;
+    display: block;
+    position: relative;
+    opacity: 50%;
 }
 
 
