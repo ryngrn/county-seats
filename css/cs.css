@@ -322,6 +322,20 @@ main.tmpl-post.why h2 {
     opacity: 50%;
 }
 
+.explainer:hover{
+	opacity: 100%;
+}
+
+.nav-item .social {
+    top: -20px;
+    position: absolute;
+}
+.nav-item{
+	position: relative;
+}
+.nav-item:last-of-type{
+	margin-right: 0;
+}
 
 /* Thoughts Page */
 .tmpl-home .postlist-link {
