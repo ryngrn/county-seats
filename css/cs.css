@@ -532,6 +532,9 @@ blockquote.pull-quote {
     margin: 0 auto 40px;
     width: 60%;
 }
+.wider main p:first-of-type{
+	margin-top: 2em;
+}
 .story-stepper{
 	border-bottom: 2px solid rgba(0,0,0,0.2);
     padding-bottom: 3em;
