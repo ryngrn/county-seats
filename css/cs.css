@@ -542,6 +542,15 @@ blockquote.pull-quote {
     list-style: none;
     font-size: 14px;
 }
+.story-stepper li {
+    display: inline-block;
+}
+.story-stepper li.left {
+    float: left;
+}
+.story-stepper li.right {
+    float: right;
+}
 
 
 
