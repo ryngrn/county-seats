@@ -24,7 +24,7 @@
 
 <h1 class="simple">{{ title }}</h1>
 
-<div class="tag-wrapper" class="simple">
+<div class="tag-wrapper simple">
 {%- for tag in tags | filterTagList -%}
 {%- set tagUrl %}/tags/{{ tag | slug }}/{% endset -%}
 <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>

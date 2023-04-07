@@ -490,8 +490,35 @@ blockquote.pull-quote {
 
 
 /* Thoughts template CSS */
-.bg-white{
+.wider .bg-white{
 	background: white;
+    border-bottom: 2px solid black;
+    margin-bottom: 2em;
+    padding-bottom: 2em;
+    padding-top: 2em;
+}
+.wider img.full-width-image {
+    width: 80vw;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-bottom: 3em;
+    padding-top: 3em;
+}
+.wider img.full-width-image:first-of-type{
+	padding-top: 0;
+}
+.wider h1.simple {
+    font-size: 5em;
+}
+.wider main h2 {
+    font-size: 3em;
+    text-align: center;
+}
+.wider main h3 {
+    font-size: 2em;
+    text-align: center;
 }
 .wider main p {
     margin: 0 auto 40px;
