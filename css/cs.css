@@ -520,8 +520,9 @@ blockquote.pull-quote {
 }
 }
 .wider main h2 {
-    font-size: 3em;
     text-align: center;
+    font-size: 3em;
+    letter-spacing: -0.03em;
 }
 .wider main h3 {
     font-size: 2em;
@@ -530,6 +531,13 @@ blockquote.pull-quote {
 .wider main p {
     margin: 0 auto 40px;
     width: 60%;
+}
+.story-stepper{
+	border-bottom: 2px solid rgba(0,0,0,0.2);
+    padding-bottom: 3em;
+    margin-bottom: 2em;
+    list-style: none;
+    font-size: 14px;
 }
 
 
@@ -568,6 +576,33 @@ blockquote.pull-quote {
 	.blockquote.pull-quote {
 		width:; 100%;
 	}
+
+
+	/* Thoughts template CSS */
+
+.wider img.full-width-image {
+    width: 100vw;
+}
+.wider main h2 {
+    text-align: center;
+    font-size: 3em;
+    letter-spacing: -0.03em;
+}
+.wider main h3 {
+    font-size: 2em;
+    text-align: center;
+}
+.wider main p {
+    margin: 0 auto 40px;
+    width: 60%;
+}
+.story-stepper{
+	border-bottom: 2px solid rgba(0,0,0,0.2);
+    padding-bottom: 3em;
+    margin-bottom: 2em;
+    list-style: none;
+    font-size: 14px;
+}
 
 }
 @media all and (max-width: 900px) {
@@ -621,6 +656,10 @@ blockquote.pull-quote {
 	    list-style: none;
 	    overflow: hidden;
 	    max-height: none;
+	}
+
+	.wider h1.simple{
+		font-size: 40px;
 	}
 }
 
