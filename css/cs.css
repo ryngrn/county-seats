@@ -489,6 +489,18 @@ blockquote.pull-quote {
 }
 
 
+/* Thoughts template CSS */
+.bg-white{
+	background: white;
+}
+.wider main p {
+    margin: 0 auto 40px;
+    width: 60%;
+}
+
+
+
+/* Media Queries */
 
 @media all and (max-width: 1750px) {
 	.blocks-gallery-item {
