@@ -519,21 +519,22 @@ blockquote.pull-quote {
     font-size: 5em;
     text-align: center;
 }
+.wider h2, .wider h3, .wider h4, .wider h5, .wider h6{
+	text-align: center;
+	letter-spacing: -0.03em;
+}
 .wider h2 {
-    text-align: center;
     font-size: 3em;
-    letter-spacing: -0.03em;
 }
 .wider h3 {
     font-size: 2em;
-    text-align: center;
 }
 .wider main p {
     margin: 0 auto 40px;
     width: 60%;
 }
 .wider main p:first-of-type{
-	margin-top: 2em;
+	padding-top: 2em;
 }
 .story-stepper{
 	border-bottom: 2px solid rgba(0,0,0,0.2);
