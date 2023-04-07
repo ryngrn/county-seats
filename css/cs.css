@@ -513,18 +513,19 @@ blockquote.pull-quote {
 }
 .wider img.full-width-image:first-of-type{
 	padding-top: 0;
+	width: 100vw;
 }
 .wider h1.simple {
     font-size: 5em;
     text-align: center;
 }
 }
-.wider main h2 {
+.wider h2 {
     text-align: center;
     font-size: 3em;
     letter-spacing: -0.03em;
 }
-.wider main h3 {
+.wider h3 {
     font-size: 2em;
     text-align: center;
 }

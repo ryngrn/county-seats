@@ -1,5 +1,5 @@
 ---
-layout: layouts/post.njk
+layout: layouts/old-post.njk
 title: Where It All Began
 templateClass: tmpl-post why
 eleventyNavigation:

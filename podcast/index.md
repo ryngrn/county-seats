@@ -1,5 +1,5 @@
 ---
-layout: layouts/post.njk
+layout: layouts/old-post.njk
 title: The County Seat Podcast
 templateClass: tmpl-post
 permalink: "podcast/"
