@@ -11,7 +11,7 @@ permalink: "/thoughts/a-county-and-seat-by-any-other-name/"
 ---	
 Alaska and the state of Louisiana are the only states that do not call their first-order administrative subdivisions counties, and other states don't have administrative centers or call them different things. I wondered about that and dug in further (so you don't have to), finding out even more fun facts in the process!
 
-##Louisiana
+## Louisiana
 
 Louisiana is divided into 64 parishes (French: paroisses, Spanish: parroquias), which are essentially the same as counties. Louisiana's usage of the term "parish" for a geographic region or local government dates back to the Spanish colonial and French colonial periods.
 
@@ -19,7 +19,7 @@ Thirty-eight parishes are governed by a council called a Police Jury. The remain
 
 
 
-##Alaska
+## Alaska
 
 Alaska is divided into 19 organized boroughs and one Unorganized Borough, with a total of 20 in all. (Louisiana uses parishes instead).[1] Delegates to the Alaska Constitutional Convention wanted to avoid the traditional county system and adopted their own unique model with different classes of boroughs varying in powers and duties.[2]
 
@@ -36,7 +36,7 @@ Six consolidated city-borough governments exist—Juneau City and Borough, Skagw
 
 
 
-##Vermont, Massachusetts, and Maine's Shire Towns
+## Vermont, Massachusetts, and Maine's Shire Towns
 
 Grouped together here, the states of Vermont, Massachusetts, and Maine have several counties that have dissolved their county-level government and in these areas have "shire towns" instead of county seats. 
 
@@ -44,19 +44,19 @@ Grouped together here, the states of Vermont, Massachusetts, and Maine have seve
 
 
 
-##Virginia's Independent Cities
+## Virginia's Independent Cities
 
 Looking at a county map of Virginia, you'll see small dots surrounded by what looks like a regular county - this is because many cities are independently governed and carved out from the remainder of the county in which they sit. And it isn't one or two, there's 38 of them!
 
 These <a href="https://en.wikipedia.org/wiki/Independent_city_(United_States)" target="_blank">Independent cities</a> legally belong to no county. They differ from consolidated city-counties in that in the case of a consolidated city-county, the county at least nominally exists, whereas in the case of an independent city, no county even nominally exists.There are 3 other independent cities outside of VA: such cities in the United States: Baltimore, Carson City, and St Louis.
 
 
-##Washington DC
+## Washington DC
 
 Yes, we know that DC is always its own thing. It's the nation's capitol. It's its own county seat. It's not a state, etc, etc.
 
 
-##What It All Means
+## What It All Means
 
 These different styles of government are great reminders that as the country was forming, not everyone agreed on how things should run. It is OK for states to handle things differently than each other, and for counties to be treated differently based on population or the differences between city and rural life. 
 
