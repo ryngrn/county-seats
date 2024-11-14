@@ -10,7 +10,7 @@
     display: inline-block;
     display: flex;
     justify-content: center;
-}
+} 
 
 .no-max-width{
    max-width: 90% !important;
