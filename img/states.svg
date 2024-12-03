@@ -10,7 +10,7 @@
     display: inline-block;
     display: flex;
     justify-content: center;
-}
+} 
 
 .no-max-width{
    max-width: 90% !important;
@@ -21,7 +21,8 @@
 #TN, #CT, #FL, #RI
 {fill: #3aa757!important;}
 
-#AL, #AR, #GA, #KY, #MS, #TX, #MA, #PA, #KY, #CO, #CA, #VA, #NC, #IL, #OH, #IN, #SC, #WV, #MO, #OK, #MI
+#AL, #AR, #CO, #CA, #GA, #IL, #IN, #KY, #MA, #MI, #MO, #MS, #NC, #OH, #OK, #PA, #SC, #TX, #VA, #WV
+
 {fill: #f38a26 !important;}
 
 </style>
